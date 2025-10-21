@@ -1,0 +1,297 @@
+[2025-10-21 19:19:02] INFO     | app | logging_config:230 - Sistema de logging inicializado
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                SELECT table_name 
+                FROM information_schema.tables 
+                WHERE table_schema = 'public'
+                AND table_type = 'BASE TABLE'
+                ORDER BY table_name
+            
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'categorias'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'categorias'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'clientes'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'clientes'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'compras'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'compras'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'comprobantes_venta'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'comprobantes_venta'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'descuentos'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'descuentos'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'detalle_compra'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'detalle_compra'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'detalle_venta'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'detalle_venta'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'inventario_movimientos'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'inventario_movimientos'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'metodos_pago'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'metodos_pago'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'planes_pago'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'planes_pago'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'producto_descuento'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'producto_descuento'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'productos'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'productos'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'proveedores'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'proveedores'
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'tarjetas'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:02] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'tarjetas'
+                
+[2025-10-21 19:19:03] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT column_name, data_type, is_nullable
+                    FROM information_schema.columns
+                    WHERE table_name = 'transacciones'
+                    ORDER BY ordinal_position
+                
+[2025-10-21 19:19:03] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                    SELECT
+                        kcu.column_name,
+                        ccu.table_name AS foreign_table_name,
+                        ccu.column_name AS foreign_column_name
+                    FROM information_schema.table_constraints AS tc
+                    JOIN information_schema.key_column_usage AS kcu
+                        ON tc.constraint_name = kcu.constraint_name
+                    JOIN information_schema.constraint_column_usage AS ccu
+                        ON ccu.constraint_name = tc.constraint_name
+                    WHERE tc.constraint_type = 'FOREIGN KEY' AND tc.table_name = 'transacciones'
+                
+[2025-10-21 19:19:03] INFO     | app.services.database_service | database_service:30 - Ejecutando consulta SQL: 
+                SELECT 
+                    tbl.table_name,
+                    col.column_name,
+                    pg_catalog.col_description(cl.oid, col.ordinal_position::int) as column_comment,
+                    pg_catalog.obj_description(cl.oid, 'pg_class') as table_comment
+                FROM information_schema.tables tbl
+                JOIN information_schema.columns col 
+                    ON tbl.table_name = col.table_name 
+                    AND tbl.table_schema = col.table_schema
+                JOIN pg_catalog.pg_class cl ON cl.relname = tbl.table_name
+                JOIN pg_catalog.pg_namespace n ON n.oid = cl.relnamespace
+                WHERE tbl.table_schema = 'public'
+                AND tbl.table_type = 'BASE TABLE'
+                AND n.nspname = 'public'
+                ORDER BY tbl.table_name, col.ordinal_position
+            
+[2025-10-21 19:19:03] INFO     | app.services.rag.schema_selector | schema_selector:163 - ✅ Índices construidos: 15 tablas, 313 keywords
+[2025-10-21 19:19:03] INFO     | app.services.rag.rag_pipeline | rag_pipeline:19 - ✅ RAG Pipeline inicializado correctamente

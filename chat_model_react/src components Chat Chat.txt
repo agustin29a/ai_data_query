@@ -1,0 +1,39 @@
+/chat_model
+├── src/
+    ├── components/
+    │   ├── Chat/
+    │   │   ├── Chat.tsx
+    │   │   ├── ChatInput.tsx
+    │   │   ├── MessageList.tsx
+    │   │   ├── MessageBubble.tsx
+    │   │   └── index.ts
+    │   ├── Charts/
+    │   │   ├── ChartRenderer.tsx
+    │   │   └── index.ts
+    │   ├── Sidebar/
+    │   │   ├── Sidebar.tsx
+    │   │   └── index.ts
+    │   └── UI/
+    │       ├── Loading.tsx
+    │       ├── ErrorBoundary.tsx
+    │       └── index.ts
+    ├── hooks/
+    │   ├── useChat.ts
+    │   ├── useApi.ts
+    │   └── index.ts
+    ├── services/
+    │   ├── api.ts
+    │   ├── chartService.ts
+    │   ├── sessionService.ts
+    │   └── index.ts
+    ├── types/
+    │   ├── chat.ts
+    │   ├── api.ts
+    │   └── index.ts
+    ├── utils/
+    │   ├── constants.ts
+    │   ├── helpers.ts
+    │   └── index.ts
+    ├── App.tsx
+    ├── main.tsx
+    └── vite-env.d.ts

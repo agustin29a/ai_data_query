@@ -1,4 +1,4 @@
-import type { ResultData } from './api.type';
+import type { ResultData, ChartData } from './api.type';
 
 export interface SendMessageParams {
   content: string;
@@ -29,13 +29,6 @@ export interface SendMessageParams {
   sessionId?: string;
   onSuccess?: () => void;
   onError?: (error: string) => void;
-}
-
-export interface ChartData {
-  chart_code: string;
-  chart_image: string;
-  chart_type: string;
-  needs_chart: boolean;
 }
 
 export interface Content {

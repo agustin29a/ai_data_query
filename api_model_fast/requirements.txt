@@ -1,0 +1,56 @@
+# --- Core FastAPI ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.0
+
+# --- AWS SDK ---
+boto3==1.40.39
+botocore==1.40.39
+s3transfer==0.14.0
+jmespath==1.0.1
+
+# --- HuggingFace & ML ---
+transformers==4.56.2
+torch==2.8.0
+triton==3.4.0
+tokenizers==0.22.1
+sentence-transformers==5.1.1
+safetensors==0.6.2
+filelock==3.19.1
+fsspec==2025.9.0
+hf-xet==1.1.10
+
+# --- Ciencia de datos ---
+numpy==2.3.3
+pandas==2.3.2
+scikit-learn==1.7.2
+scipy==1.16.2
+matplotlib==3.10.6
+seaborn==0.13.2
+joblib==1.5.2
+threadpoolctl==3.6.0
+
+# --- Utils ---
+python-dotenv==1.1.1
+requests==2.32.5
+urllib3==2.5.0
+regex==2025.9.18
+tqdm==4.67.1
+packaging==25.0
+pyyaml==6.0.3
+
+# --- Base ---
+certifi==2025.8.3
+charset-normalizer==3.4.3
+idna==3.10
+typing_extensions==4.15.0
+six==1.17.0
+setuptools==80.9.0
+
+# --- Fechas y TZ ---
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# --- DB ---
+psycopg2-binary==2.9.10

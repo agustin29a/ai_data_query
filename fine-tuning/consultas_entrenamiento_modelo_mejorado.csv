@@ -1,0 +1,2501 @@
+consulta,necesita_grafico,tipo_grafico
+Necesito mostrar gráfico la frecuencia de compras,True,histograma
+Obtener mostrame los transacciones por estado y grafica los resultados,1,barras
+Sería posible transacciones por estado,True,barras
+Consulta: muestrame los ventas por vendedor y presenta un gráfico,True,barras
+Me gustaría presenta en gráfico la frecuencia de compras,True,histograma
+Sería posible visualiza en un gráfico los transacciones por estado,True,barras
+Me gustaría clientes inactivos en el sistema,True,barras
+Ventas por temporada incluyendo gráfica,True,barras
+Lista de todos los proveedores,0,ninguno
+Mostrar ventas por temporada en gráfico lineal,True,lineal
+Muestra los datos del cliente con DNI 12345678,0,ninguno
+productos sin stock y haz un gráfico de pastel,1,circular
+Podrías genera chart la frecuencia de compras,1,histograma
+obten los clientes por grupo de edad y visualizalos en un gráfico?,True,barras
+Necesito visualiza en un gráfico los ventas mensuales del último año,True,lineal
+Mostrar genera chart la distribución de clientes,1,histograma
+Dame grafica la evolución de precios,1,lineal
+Compras realizadas al proveedor ID 5?,True,barras
+haz gráfica la distribución de clientes,1,circular
+Me gustaría resultados del trimestre,True,lineal
+Sería posible presentar en gráfico las ventas mensuales,True,lineal
+Solicito ventas por hora del día y gráfico,True,barras
+Solicito muestra gráfico la frecuencia de compras,True,histograma
+Quiero top 10 productos más vendidos y graficalo en barras,1,barras
+compras por proveedor y muestra gráfico,1,circular
+mostrar gráfico la participación de mercado,True,circular
+presenta en gráfico los compras por proveedor,True,barras
+Requiero productos de la categoría ropa,False,ninguno
+Mostrar descuentos aplicados y muestra un gráfico de barras,True,barras
+Compras por proveedor,1,barras
+Mostrar visualizar la frecuencia de compras,1,histograma
+ventas por hora del día y muestra gráfico,1,circular
+muestrame los ventas por vendedor y presenta un gráfico por favor,True,barras
+Me gustaría crear plot las ventas mensuales,1,lineal
+Consulta: crear plot la correlación precio-ventas,1,dispersion
+Obtener lista los productos por categoría y muestra un gráfico,True,barras
+clientes registrados por mes y gráfico?,True,barras
+Precios promedio por marca visualizado en línea,True,lineal
+mostrar gráfico las ventas mensuales?,True,lineal
+presenta en gráfico los descuentos aplicados,True,barras
+Podrías extrae los compras por proveedor y haz un plot,1,barras
+Requiero ventas por hora del día y gráfico,True,barras
+VENTAS MENSUALES DEL ÚLTIMO AÑO CON GRÁFICO DE DISPERSIÓN,True,dispersion
+Sería posible presenta en gráfico los movimientos de inventario,True,barras
+Quiero productos por categoría y muestra un gráfico de barras,True,barras
+Obtener transacciones rechazadas este mes,True,barras
+Necesito stock por categoría agregando chart,1,barras
+genera una gráfica de los productos por categoría,1,histograma
+Requiero productos sin stock y muestra gráfico,True,barras
+Quiero productos sin stock incluyendo gráfica,True,barras
+presenta en gráfico las ventas mensuales,1,barras
+Haz un gráfico de los precios promedio por marca,True,barras
+Necesito presenta en gráfico los productos por categoría,True,barras
+haz un gráfico de los precios promedio por marca,1,barras
+extrae los top 10 productos más vendidos y haz un plot,1,lineal
+productos por categoría y muestra un gráfico de barras,1,barras
+Dame productos que tienen descuento activo,True,barras
+Mostrar precios promedio por marca incluyendo gráfica,True,barras
+graficar las ventas mensuales,1,lineal
+Requiero muestra gráfico los productos más vendidos,True,barras
+Requiero dibuja un gráfico con los clientes por grupo de edad,True,barras
+Sería posible generar chart la participación de mercado,1,circular
+graficar la correlación precio-ventas,1,barras
+Crecimiento de clientes registrados,True,lineal
+productos con mayor margen con gráfico,1,barras
+Mostrar muestrame los productos por categoría y presenta un gráfico,True,barras
+Consulta: genera chart los métodos de pago,1,barras
+ventas por temporada incluyendo gráfica,1,lineal
+LISTA LOS PRECIOS PROMEDIO POR MARCA Y MUESTRA UN GRÁFICO,True,barras
+dibujar gráfico el stock por categoría,1,lineal
+Tendencia de productos más vendidos,1,lineal
+Podrías genera una gráfica de los ventas por temporada,True,barras
+Quiero extrae los descuentos aplicados y haz un plot,1,barras
+Correlación entre descuento y volumen de ventas?,True,dispersion
+ventas mensuales del último año incluyendo gráfica?,True,lineal
+LISTA LOS DESCUENTOS APLICADOS Y MUESTRA UN GRÁFICO,True,barras
+stock por categoría con gráfico circular?,True,circular
+Requiero consulta los productos por categoría y genera un chart,1,barras
+Obtener crea plot la distribución de clientes,1,histograma
+consulta los precios promedio por marca y genera un chart,1,barras
+Consulta: compras por proveedor y muestra un gráfico de barras,True,barras
+plotear las ventas mensuales,1,dispersion
+Necesito crea plot el stock por categoría,1,barras
+consulta los top 10 productos más vendidos y genera un chart,1,barras
+ventas por temporada con gráfico?,True,barras
+grafica las ventas por hora,1,barras
+Sería posible presenta en gráfico la correlación precio-ventas,True,dispersion
+ventas por vendedor visualizado en línea,1,lineal
+productos con mayor margen y muestra histograma por favor,True,histograma
+ventas por vendedor y muestra un gráfico de barras por favor,True,barras
+Me gustaría descuentos aplicados agregando chart,1,barras
+Lista los ventas mensuales del último año y muestra un gráfico,True,lineal
+ventas por vendedor y muestra un gráfico de barras,1,barras
+visualizar la distribución de clientes,1,histograma
+Dame ventas por temporada incluyendo gráfica,True,barras
+Quiero dibuja un gráfico con los clientes por grupo de edad,True,barras
+MOVIMIENTOS DE INVENTARIO DEL PRODUCTO ID 10,True,barras
+Necesito muestrame los ventas mensuales del último año y presenta un gráfico,True,lineal
+Quiero plotea el stock por categoría,1,barras
+transacciones por estado con gráfico,1,barras
+dibujar gráfico los métodos de pago,True,barras
+Me gustaría top 10 productos más vendidos con gráfico de dispersión,True,dispersion
+Podrías mostrame los primeros 5 clientes ordenados alfabéticamente y grafica los resultados,1,barras
+Consulta: genera una gráfica de los compras por proveedor,True,barras
+Métricas de rendimiento,0,ninguno
+Necesito visualiza en un gráfico los productos con mayor margen,True,barras
+plotea el stock por categoría,1,dispersion
+DIBUJAR GRÁFICO LOS MÉTODOS DE PAGO,True,barras
+Quiero primeros 5 clientes ordenados alfabéticamente y muestra un gráfico de barras,True,barras
+Podrías consulta los movimientos de inventario y genera un chart,1,barras
+Obtener productos por categoría y graficalo en barras,1,barras
+Solicito crea un plot de los métodos de pago más utilizados,1,barras
+Consulta: presenta en gráfico los ventas por vendedor,True,barras
+Sería posible plotear la distribución de clientes,1,histograma
+Compras por proveedor visualizado en línea,True,lineal
+Solicito mostrar gráfico la distribución de clientes,True,histograma
+Sería posible buscar cliente por nombre juan pérez,False,ninguno
+Sería posible clientes registrados por mes,True,barras
+Quiero ventas por temporada con gráfico,True,barras
+Dame productos sin stock y muestra un gráfico de barras,True,barras
+estados de venta y muestra histograma,1,histograma
+stock por categoría y muestra un gráfico de barras,1,barras
+visualiza en un gráfico los productos sin stock,1,circular
+Obtener precios promedio por marca visualizado en línea,True,lineal
+Ventas mensuales del último año por favor,False,ninguno
+plotear la participación de mercado,1,dispersion
+Sería posible productos por categoría en gráfico lineal,True,lineal
+Me gustaría porcentaje de métodos de pago utilizados,True,circular
+Reporte de desempeño,False,ninguno
+productos con mayor margen visualizado en línea,1,lineal
+top 10 productos más vendidos visualizado en línea,1,lineal
+Necesito dibujar gráfico los productos más vendidos,True,barras
+plotea la participación de mercado por favor,1,circular
+ventas por temporada en gráfico lineal,True,lineal
+Me gustaría plotea los métodos de pago,1,barras
+presenta en gráfico la distribución de clientes,1,barras
+Me gustaría dame los compras por proveedor y graficalos,1,barras
+Sería posible dame los tipos de comprobante y graficalos,1,barras
+top 10 productos más vendidos con gráfico,1,barras
+Ventas del día de hoy,0,ninguno
+visualiza el stock por categoría,True,barras
+Consulta: Proporción de tipos de comprobante,False,ninguno
+Obtener mostrame los tipos de comprobante y grafica los resultados,1,barras
+Podrías movimientos de inventario y haz un gráfico de pastel,True,circular
+Mostrar mostrar detalle de venta número 001-000123,False,ninguno
+distribución de edades de clientes,False,ninguno
+Me gustaría primeros 5 clientes ordenados alfabéticamente y haz un gráfico de pastel,True,circular
+productos sin stock y muestra un gráfico de barras,1,barras
+Mostrar extrae los productos por categoría y haz un plot,1,barras
+Solicito mostrar detalle de venta número 001-000123,False,ninguno
+plotea los métodos de pago,1,dispersion
+Requiero generar chart la frecuencia de compras,1,histograma
+MOSTRAME LOS PRODUCTOS POR CATEGORÍA Y GRAFICA LOS RESULTADOS,1,barras
+Podrías generar chart el stock por categoría,1,barras
+dibujar gráfico la frecuencia de compras,True,histograma
+Requiero grafica la evolución de precios,1,lineal
+Crea un plot de los ventas por vendedor,1,barras
+Obtener ventas por cliente con id 25,True,barras
+haz un gráfico de los ventas por hora del día,1,barras
+Sería posible grafica la distribución de clientes,1,histograma
+Sería posible ventas por temporada visualizado en línea,True,lineal
+Consulta: métodos de pago más utilizados en gráfico lineal,True,lineal
+extrae los primeros 5 clientes ordenados alfabéticamente y haz un plot,1,barras
+dibuja gráfico las ventas por hora,1,lineal
+productos por categoría con gráfico circular,1,circular
+Obtener haz un gráfico de los ventas mensuales del último año,True,lineal
+Sería posible visualizar la frecuencia de compras,1,histograma
+Dame ventas por vendedor y muestra histograma,True,histograma
+Sería posible hacer gráfica la distribución de clientes,True,histograma
+LISTA LOS PRODUCTOS SIN STOCK Y MUESTRA UN GRÁFICO,True,barras
+PLOTEA LAS VENTAS MENSUALES,1,lineal
+Solicito ventas mensuales del último año y muestra histograma,True,histograma
+Mostrar obten los clientes registrados por mes y visualizalos en un gráfico,True,barras
+top 10 productos más vendidos con gráfico,True,barras
+Necesito presenta en gráfico las ventas por hora,True,barras
+Sería posible estados de venta con gráfico circular,True,circular
+Primeros 5 clientes ordenados alfabéticamente y muestra histograma,True,histograma
+Productos que tienen descuento activo,0,ninguno
+COMPRAS POR PROVEEDOR Y HAZ UN GRÁFICO DE PASTEL,True,circular
+Mostrar dame los compras por proveedor y graficalos,1,barras
+Solicito hacer gráfica los métodos de pago,True,barras
+mostrar gráfico la distribución de clientes,1,circular
+Productos con stock menor al mínimo,0,ninguno
+Requiero crea plot la evolución de precios,1,lineal
+Stock por categoría de productos,1,barras
+Podrías muestra gráfico la distribución de clientes,True,histograma
+PRIMEROS 5 CLIENTES ORDENADOS ALFABÉTICAMENTE AGREGANDO CHART,1,barras
+GRAFICA LOS PRODUCTOS POR CATEGORÍA,1,barras
+Productos de la categoría Ropa,0,ninguno
+Obtener muestra gráfico la participación de mercado,True,circular
+Solicito productos con mayor margen con gráfico,True,barras
+plotear la participación de mercado?,1,circular
+stock por categoría y muestra un gráfico de barras,True,barras
+Requiero tipos de comprobante incluyendo gráfica,True,barras
+visualiza en un gráfico los productos por categoría?,True,barras
+clientes registrados por mes y graficalo en barras,1,barras
+Necesito dame los productos por categoría y graficalos,1,barras
+Distribución de ventas por categoría,1,circular
+Solicito obten los ventas por vendedor y visualizalos en un gráfico,True,barras
+Quiero productos más vendidos por categoría,True,barras
+graficar la correlación precio-ventas?,1,dispersion
+graficar la evolución de precios,1,barras
+Me gustaría productos sin stock y graficalo en barras,1,barras
+Sería posible stock por categoría de productos,False,ninguno
+Mostrar grafica el stock por categoría,1,barras
+Me gustaría busca los clientes por grupo de edad y crea una gráfica,True,barras
+haz gráfica la participación de mercado,1,circular
+Requiero distribución de clientes por grupo de edad,True,histograma
+Necesito relación entre precio y cantidad vendida,True,dispersion
+movimientos de inventario y gráfico,1,barras
+Obtener tendencia de productos más vendidos,False,ninguno
+transacciones por estado con gráfico circular,1,circular
+Sería posible grafica los productos por categoría,1,barras
+MOSTRAR GRÁFICO LAS VENTAS POR HORA,True,barras
+Sería posible transacciones por estado con gráfico circular,True,circular
+Podrías stock actual de todos los productos,False,ninguno
+Podrías productos por categoría visualizado en línea,True,lineal
+Requiero top 10 productos más vendidos agregando chart,1,barras
+dibujar gráfico el stock por categoría?,True,barras
+Porcentaje de métodos de pago utilizados,1,circular
+Dame muestrame los ventas por hora del día y presenta un gráfico,True,barras
+Obtener ventas por temporada visualizado en línea,True,lineal
+precios promedio por marca incluyendo gráfica?,True,barras
+Consulta: presenta en gráfico los ventas por vendedor,True,barras
+Me gustaría busca los clientes registrados por mes y crea una gráfica,True,barras
+Necesito compras por proveedor y graficalo en barras,1,barras
+Requiero haz gráfica el stock por categoría,True,barras
+generar chart los productos más vendidos por favor,1,barras
+Solicito productos con mayor margen con gráfico de dispersión,True,dispersion
+DAME LOS VENTAS MENSUALES DEL ÚLTIMO AÑO Y GRAFICALOS,1,lineal
+genera chart el stock por categoría,1,barras
+Dame proveedores con ruc que empieza con 20,False,ninguno
+Necesito visualizar las ventas por hora,1,barras
+Ventas por vendedor,1,barras
+Podrías muestrame los descuentos aplicados y presenta un gráfico,True,barras
+Requiero genera chart los productos más vendidos,1,barras
+stock por categoría visualizado en línea,1,lineal
+Mostrar primeros 5 clientes ordenados alfabéticamente y muestra histograma,True,histograma
+Necesito muestrame los productos por categoría y presenta un gráfico,True,barras
+muestra en un chart los ventas mensuales del último año,1,lineal
+compras por proveedor y haz un gráfico de pastel?,True,circular
+primeros 5 clientes ordenados alfabéticamente con gráfico de dispersión,True,dispersion
+Consulta: grafica los primeros 5 clientes ordenados alfabéticamente,1,barras
+Necesito estados de venta y muestra histograma,True,histograma
+Podrías productos por categoría agregando chart,1,barras
+primeros 5 clientes ordenados alfabéticamente y haz un gráfico de pastel?,True,circular
+stock por categoría con gráfico circular,1,circular
+Solicito haz gráfica la evolución de precios,True,lineal
+Crea plot la evolución de precios,1,lineal
+Podrías dibuja gráfico los métodos de pago,True,barras
+Necesito análisis de tendencias,False,ninguno
+Podrías generar chart las ventas por hora,1,barras
+Obtener ventas mensuales del último año y muestra un gráfico de barras,True,barras
+VISUALIZA EN UN GRÁFICO LOS VENTAS POR VENDEDOR,True,barras
+visualiza los métodos de pago,1,lineal
+Muestra en un chart los productos con mayor margen,1,barras
+Graficar los productos más vendidos,1,barras
+Podrías descuentos aplicados en gráfico lineal,True,lineal
+muestra en un chart los movimientos de inventario,1,lineal
+productos por categoría en gráfico lineal,True,lineal
+MOVIMIENTOS DE INVENTARIO CON GRÁFICO CIRCULAR,True,circular
+crea plot la participación de mercado,1,lineal
+Solicito graficar la distribución de clientes,1,histograma
+movimientos de inventario con gráfico,1,barras
+Busca los precios promedio por marca y crea una gráfica,True,barras
+mostrame los productos por categoría y grafica los resultados,1,barras
+COMPRAS POR PROVEEDOR Y MUESTRA GRÁFICO,True,barras
+Sería posible crear plot el stock por categoría,1,barras
+visualiza la distribución de clientes,True,histograma
+extrae los ventas por hora del día y haz un plot por favor,1,barras
+dibuja un gráfico con los productos por categoría,1,barras
+genera chart la correlación precio-ventas,1,barras
+precios promedio por marca y graficalo en barras,1,barras
+Podrías dispersión de precios por categoría,True,dispersion
+genera chart la participación de mercado,1,barras
+Quiero lista los clientes por grupo de edad y muestra un gráfico,True,barras
+Quiero ventas por cliente con id 25,True,barras
+visualizar la correlación precio-ventas,1,lineal
+Me gustaría dibujar gráfico las ventas mensuales,True,lineal
+primeros 5 clientes ordenados alfabéticamente y haz un gráfico de pastel,1,circular
+visualiza los productos más vendidos,1,lineal
+ventas por hora del día con gráfico por favor,True,barras
+Necesito descuentos aplicados con gráfico,True,barras
+Obtener dibuja gráfico las ventas por hora,True,barras
+Requiero crea plot la correlación precio-ventas,1,dispersion
+Podrías visualiza en un gráfico los precios promedio por marca,True,barras
+obten los ventas mensuales del último año y visualizalos en un gráfico,1,circular
+Quiero estados de venta y muestra gráfico,True,barras
+Necesito mostrar gráfico los productos más vendidos,True,barras
+Sería posible productos con mayor margen visualizado en línea,True,lineal
+Consulta: dibuja un gráfico con los productos por categoría,True,barras
+ventas por vendedor visualizado en línea?,True,lineal
+Quiero genera chart la evolución de precios,1,lineal
+Ventas canceladas en la última semana,False,ninguno
+Quiero visualiza en un gráfico los productos con mayor margen,True,barras
+Crea un plot de los métodos de pago más utilizados,1,barras
+Necesito productos con mayor margen de ganancia,True,barras
+Podrías compras por proveedor visualizado en línea,True,lineal
+Obtener dame los compras por proveedor y graficalos,1,barras
+Consulta: consulta los top 10 productos más vendidos y genera un chart,1,barras
+Consulta: consulta los transacciones por estado y genera un chart,1,barras
+Ventas por temporada agregando chart,1,barras
+ventas mensuales del último año y graficalo en barras,1,barras
+generar chart el stock por categoría,1,barras
+ventas por hora del día agregando chart,1,barras
+Podrías productos que tienen descuento activo,False,ninguno
+Sería posible muestra gráfico la frecuencia de compras,True,histograma
+Solicito hacer gráfica la correlación precio-ventas,True,dispersion
+precios promedio por marca y graficalo en barras,1,barras
+dibuja gráfico el stock por categoría por favor,True,barras
+Plotear la frecuencia de compras,1,histograma
+Obtener ventas por vendedor y muestra histograma,True,histograma
+Buscar productos por color rojo,0,ninguno
+Dame distribución de ventas por categoría,True,histograma
+crear plot la participación de mercado,1,circular
+stock por categoría y muestra gráfico,1,circular
+precios promedio por marca y graficalo en barras,1,barras
+Obtener ventas por temporada visualizado en línea,True,lineal
+Quiero stock por categoría con gráfico circular,True,circular
+presentar en gráfico las ventas mensuales,1,barras
+muestrame los ventas por hora del día y presenta un gráfico?,True,barras
+Solicito haz gráfica la distribución de clientes,True,histograma
+Quiero muestra en un chart los ventas por vendedor,1,barras
+Productos de la categoría Ropa,False,ninguno
+ventas por temporada visualizado en línea?,True,lineal
+Dame visualiza en un gráfico los stock por categoría,True,barras
+Quiero transacciones por estado y gráfico,True,barras
+dame los productos sin stock y graficalos,1,barras
+dibuja gráfico el stock por categoría,1,lineal
+Dame buscar productos por color rojo,False,ninguno
+Me gustaría obten los movimientos de inventario y visualizalos en un gráfico,True,barras
+ACTUALIZAR TELÉFONO DEL CLIENTE CON ID 15,False,ninguno
+productos sin stock con gráfico circular,1,circular
+dibuja gráfico las ventas mensuales,1,lineal
+Podrías evolución del inventario total,False,ninguno
+Obtener ventas mensuales del último año y muestra un gráfico de barras,True,barras
+Dame transacciones por estado con gráfico,True,barras
+precios promedio por marca en gráfico lineal,True,lineal
+Consulta: consulta los tipos de comprobante y genera un chart,1,barras
+Obtener transacciones pendientes de confirmación,False,ninguno
+presentar en gráfico los métodos de pago,1,barras
+Obtener crea un plot de los ventas por hora del día,1,barras
+Podrías presentar en gráfico las ventas mensuales,True,lineal
+Podrías mostrame los compras por proveedor y grafica los resultados,1,barras
+estados de venta con gráfico de dispersión,1,dispersion
+Quiero ventas por vendedor con gráfico de dispersión,True,dispersion
+haz gráfica la correlación precio-ventas,1,circular
+Requiero histograma de cantidades vendidas,True,histograma
+Mostrar dame los tipos de comprobante y graficalos,1,barras
+Sería posible muestra en un chart los ventas por vendedor,1,barras
+presentar en gráfico la evolución de precios,True,lineal
+Compras realizadas al proveedor ID 5,0,ninguno
+Consulta: consulta los stock por categoría y genera un chart,1,barras
+Sería posible genera chart los métodos de pago,1,barras
+Me gustaría productos con mayor margen con gráfico circular,True,circular
+Sería posible variación de precios de productos,False,ninguno
+consulta los estados de venta y genera un chart?,1,barras
+dibujar gráfico las ventas por hora,1,lineal
+crea plot los productos más vendidos?,1,barras
+Me gustaría descuentos aplicados y muestra un gráfico de barras,True,barras
+Podrías productos por categoría y graficalo en barras,1,barras
+Sería posible genera chart la correlación precio-ventas,1,dispersion
+Dame top 10 productos más vendidos y gráfico,True,barras
+Me gustaría tipos de comprobante con gráfico,True,barras
+dibuja un gráfico con los clientes registrados por mes,1,barras
+Grafica los ventas por vendedor,1,barras
+Obtener productos con mayor margen con gráfico circular,True,circular
+Mostrar genera una gráfica de los primeros 5 clientes ordenados alfabéticamente,True,barras
+PAGOS REALIZADOS CON TARJETA DE CRÉDITO,False,ninguno
+muestra en un chart los transacciones por estado por favor,1,barras
+Requiero obten los clientes registrados por mes y visualizalos en un gráfico,True,barras
+Mostrar dibujar gráfico los productos más vendidos,True,barras
+Mostrar correlación entre descuento y volumen de ventas,False,ninguno
+Podrías top 10 productos más vendidos en gráfico lineal,True,lineal
+descuentos aplicados y gráfico,1,barras
+dibujar gráfico la correlación precio-ventas,1,lineal
+MUESTRA LOS DATOS DEL CLIENTE CON DNI 12345678,False,ninguno
+Necesito ventas mensuales del último año con gráfico de dispersión,True,dispersion
+Consulta: visualizar la evolución de precios,1,lineal
+Requiero ventas por temporada con gráfico de dispersión,True,dispersion
+Quiero muestra en un chart los movimientos de inventario,1,barras
+Porcentaje de productos con descuento,1,circular
+Obtener obten los movimientos de inventario y visualizalos en un gráfico,True,barras
+consulta los estados de venta y genera un chart,1,barras
+dame los compras por proveedor y graficalos,1,barras
+Sería posible generar chart los métodos de pago,1,barras
+Métodos de pago más utilizados en gráfico lineal,True,lineal
+Quiero extrae los estados de venta y haz un plot,1,barras
+consulta los movimientos de inventario y genera un chart,1,barras
+Consulta: productos sin stock y graficalo en barras,1,barras
+Me gustaría lista los ventas por hora del día y muestra un gráfico,True,barras
+top 10 productos más vendidos y muestra histograma,True,histograma
+Consulta: Transacciones rechazadas este mes,True,barras
+crea un plot de los clientes por grupo de edad,1,dispersion
+extrae los top 10 productos más vendidos y haz un plot,1,barras
+Podrías métodos de pago más utilizados y muestra gráfico,True,barras
+Mostrar visualiza en un gráfico los ventas mensuales del último año,True,lineal
+Dame haz gráfica los métodos de pago,True,barras
+Descuentos aplicados incluyendo gráfica,True,barras
+obten los movimientos de inventario y visualizalos en un gráfico,1,circular
+Quiero stock por categoría con gráfico,True,barras
+Consulta: haz un gráfico de los top 10 productos más vendidos,True,barras
+presenta en gráfico las ventas por hora por favor,True,barras
+Mostrar presenta en gráfico los productos por categoría,True,barras
+Ventas por vendedor?,True,barras
+Dame muestra gráfico la evolución de precios,True,lineal
+lista los productos sin stock y muestra un gráfico por favor,True,barras
+graficar los productos más vendidos por favor,1,barras
+primeros 5 clientes ordenados alfabéticamente con gráfico de dispersión,True,dispersion
+Muestra gráfico la correlación precio-ventas,True,dispersion
+genera chart los productos más vendidos,1,barras
+Consulta: plotear la participación de mercado,1,circular
+Requiero estados de venta y muestra histograma,True,histograma
+Requiero métodos de pago más utilizados y muestra gráfico,True,barras
+stock por categoría con gráfico por favor,True,barras
+crea un plot de los clientes registrados por mes?,1,barras
+dibujar gráfico las ventas mensuales,1,lineal
+Quiero haz un gráfico de los precios promedio por marca,True,barras
+grafica los precios promedio por marca?,1,barras
+Requiero participación de marcas en ventas,True,circular
+Consulta: haz un gráfico de los transacciones por estado,True,barras
+clientes por grupo de edad y haz un gráfico de pastel,1,circular
+genera una gráfica de los ventas por vendedor,True,barras
+muestrame los transacciones por estado y presenta un gráfico,1,circular
+LISTA LOS PRODUCTOS POR CATEGORÍA Y MUESTRA UN GRÁFICO,True,barras
+haz un gráfico de los ventas por hora del día,True,barras
+Sería posible generar chart la evolución de precios,1,lineal
+muestrame los precios promedio por marca y presenta un gráfico,1,circular
+extrae los descuentos aplicados y haz un plot por favor,1,barras
+generar chart las ventas mensuales,1,barras
+Necesito muestrame los precios promedio por marca y presenta un gráfico,True,barras
+Consulta: Clientes registrados por mes,True,barras
+Requiero métricas de rendimiento,True,barras
+Me gustaría mostrar gráfico la correlación precio-ventas,True,dispersion
+VISUALIZA EN UN GRÁFICO LOS CLIENTES POR GRUPO DE EDAD,True,barras
+muestrame los compras por proveedor y presenta un gráfico,1,circular
+dibujar gráfico la distribución de clientes,1,lineal
+genera una gráfica de los primeros 5 clientes ordenados alfabéticamente por favor,True,barras
+Requiero movimientos de inventario incluyendo gráfica,True,barras
+presenta en gráfico los precios promedio por marca,1,circular
+Podrías genera una gráfica de los tipos de comprobante,True,barras
+Consulta: graficar la participación de mercado,1,circular
+crea plot la correlación precio-ventas?,1,dispersion
+genera una gráfica de los compras por proveedor,1,histograma
+Sería posible clientes inactivos en el sistema,True,barras
+Quiero productos sin stock en gráfico lineal,True,lineal
+obten los ventas por vendedor y visualizalos en un gráfico por favor,True,barras
+Quiero visualizar el stock por categoría,1,barras
+Sería posible primeros 5 clientes ordenados alfabéticamente y muestra histograma,True,histograma
+extrae los tipos de comprobante y haz un plot,1,lineal
+top 10 productos más vendidos con gráfico circular,True,circular
+Solicito crea un plot de los clientes por grupo de edad,1,barras
+HACER GRÁFICA LAS VENTAS POR HORA,True,barras
+clientes registrados por mes y muestra histograma,1,histograma
+Dame busca los compras por proveedor y crea una gráfica,True,barras
+visualizar la distribución de clientes?,1,histograma
+Productos que necesitan reposición?,False,ninguno
+Relación stock mínimo vs stock actual,1,dispersion
+Buscar productos de la marca Nike,0,ninguno
+Requiero graficar las ventas por hora,1,barras
+Podrías productos por categoría con gráfico de dispersión,True,dispersion
+graficar los productos más vendidos,1,barras
+Extrae los productos por categoría y haz un plot,1,barras
+Tendencia de stock de un producto específico,True,lineal
+Requiero plotea la frecuencia de compras,1,histograma
+Progresión de ventas acumuladas?,True,lineal
+Necesito lista los productos sin stock y muestra un gráfico,True,barras
+presenta en gráfico los métodos de pago más utilizados,True,barras
+crear plot la distribución de clientes?,1,histograma
+haz gráfica la evolución de precios,1,circular
+DIBUJAR GRÁFICO LA PARTICIPACIÓN DE MERCADO,True,circular
+Requiero genera chart los productos más vendidos,1,barras
+Sería posible tipos de comprobante y muestra gráfico,True,barras
+presenta en gráfico los métodos de pago,True,barras
+Solicito grafica los precios promedio por marca,1,barras
+Dame productos por categoría y muestra un gráfico de barras,True,barras
+muestra gráfico la distribución de clientes,1,circular
+Obtener visualiza la correlación precio-ventas,True,dispersion
+clientes registrados por mes en gráfico lineal,True,lineal
+Solicito movimientos de inventario y muestra histograma,True,histograma
+muestra gráfico los métodos de pago por favor,True,barras
+graficar la frecuencia de compras,1,barras
+Solicito visualiza la evolución de precios,True,lineal
+MUESTRAME LOS MOVIMIENTOS DE INVENTARIO Y PRESENTA UN GRÁFICO,True,barras
+Historial de movimientos de hoy,0,ninguno
+Requiero precios promedio por marca visualizado en línea,True,lineal
+crear plot las ventas por hora por favor,1,barras
+ventas mensuales del último año,True,lineal
+RELACIÓN ENTRE PRECIO Y CANTIDAD VENDIDA,False,ninguno
+Sería posible transacciones por estado con gráfico circular,True,circular
+top 10 productos más vendidos y graficalo en barras,1,barras
+Podrías productos por categoría con gráfico de dispersión,True,dispersion
+Estadísticas de ventas?,False,ninguno
+Distribución de estados de venta,1,circular
+Necesito crear plot la correlación precio-ventas,1,dispersion
+presenta en gráfico los tipos de comprobante,True,barras
+Me gustaría pagos realizados con tarjeta de crédito,True,barras
+Consulta: consulta los productos sin stock y genera un chart,1,barras
+grafica los stock por categoría,1,barras
+Podrías estadísticas de ventas,False,ninguno
+Me gustaría hacer gráfica el stock por categoría,True,barras
+GRAFICAR LA FRECUENCIA DE COMPRAS,1,histograma
+productos por categoría agregando chart?,1,barras
+Obtener visualiza en un gráfico los precios promedio por marca,True,barras
+plotea los productos más vendidos,1,dispersion
+muestra en un chart los productos sin stock,1,lineal
+Dame grafica las ventas mensuales,1,lineal
+generar chart los métodos de pago,1,barras
+productos sin stock en gráfico lineal,1,lineal
+dibujar gráfico la participación de mercado?,True,circular
+Correlación entre descuento y volumen de ventas,1,dispersion
+Requiero clientes registrados por mes con gráfico circular,True,circular
+graficar las ventas mensuales,1,barras
+extrae los tipos de comprobante y haz un plot,1,barras
+Sería posible plotear la distribución de clientes,1,histograma
+presentar en gráfico la evolución de precios,1,barras
+¿Cuántos clientes se registraron este mes?,0,ninguno
+Necesito crear plot la participación de mercado,1,circular
+dame los productos por categoría y graficalos?,1,barras
+Quiero stock por categoría agregando chart,1,barras
+Requiero ventas por vendedor visualizado en línea,True,lineal
+Obtener ventas por temporada y haz un gráfico de pastel,True,circular
+Ventas por temporada con gráfico de dispersión,True,dispersion
+Sería posible crear plot la evolución de precios,1,lineal
+movimientos de inventario con gráfico de dispersión,1,dispersion
+haz gráfica la frecuencia de compras por favor,True,histograma
+visualiza la frecuencia de compras,True,histograma
+Quiero plotea las ventas mensuales,1,lineal
+lista los precios promedio por marca y muestra un gráfico,1,barras
+Requiero crea un plot de los ventas por vendedor,1,barras
+Dame precios promedio por marca incluyendo gráfica,True,barras
+Solicito visualizar las ventas mensuales,1,lineal
+Obtener presenta en gráfico los métodos de pago,True,barras
+Dame clientes por grupo de edad y haz un gráfico de pastel,True,circular
+Dame muestra los datos del cliente con dni 12345678,False,ninguno
+Hacer gráfica el stock por categoría,True,barras
+PLOTEAR LA EVOLUCIÓN DE PRECIOS,1,lineal
+top 10 productos más vendidos y muestra un gráfico de barras,1,barras
+Mostrar dame los productos con mayor margen y graficalos,1,barras
+genera una gráfica de los ventas por vendedor,True,barras
+grafica el stock por categoría,1,barras
+Consulta: muestrame los compras por proveedor y presenta un gráfico,True,barras
+clientes registrados por mes y gráfico,True,barras
+Obtener muestra gráfico la evolución de precios,True,lineal
+Necesito haz gráfica la distribución de clientes,True,histograma
+Consulta: descuentos aplicados incluyendo gráfica,True,barras
+Resumen de ventas del mes actual por favor,True,barras
+visualiza las ventas por hora por favor,True,barras
+Podrías stock actual de todos los productos,False,ninguno
+Plotear los productos más vendidos,1,barras
+buscar productos de la marca nike,False,ninguno
+hacer gráfica la participación de mercado,True,circular
+Me gustaría proveedores con ruc que empieza con 20,False,ninguno
+PRIMEROS 5 CLIENTES ORDENADOS ALFABÉTICAMENTE AGREGANDO CHART,1,barras
+Podrías indicadores clave,False,ninguno
+tipos de comprobante y muestra gráfico,1,circular
+tipos de comprobante con gráfico,1,barras
+productos sin stock y muestra un gráfico de barras,True,barras
+Me gustaría productos por categoría con gráfico de dispersión,True,dispersion
+Me gustaría plotear la correlación precio-ventas,1,dispersion
+Sería posible ventas por vendedor y haz un gráfico de pastel,True,circular
+Solicito dibuja un gráfico con los primeros 5 clientes ordenados alfabéticamente,True,barras
+crea un plot de los productos con mayor margen,1,dispersion
+muestra gráfico las ventas mensuales,1,circular
+Solicito plotea las ventas por hora,1,barras
+Consulta: haz un gráfico de los precios promedio por marca,True,barras
+Consulta: productos con mayor margen con gráfico,True,barras
+grafica la participación de mercado,1,barras
+crea plot el stock por categoría,1,lineal
+Dame primeros 5 clientes ordenados alfabéticamente y gráfico,True,barras
+Consulta: haz un gráfico de los métodos de pago más utilizados,True,barras
+Consulta: presenta en gráfico los clientes por grupo de edad,True,barras
+descuentos aplicados con gráfico,1,barras
+presenta en gráfico la evolución de precios,1,barras
+Mostrar movimientos de inventario con gráfico circular,True,circular
+Podrías grafica los stock por categoría,1,barras
+Sería posible dashboard de ventas,True,barras
+Necesito top 10 productos más vendidos con gráfico,True,barras
+movimientos de inventario incluyendo gráfica,1,lineal
+Podrías actualizar precio del producto sku abc123,False,ninguno
+Consulta: visualiza la participación de mercado,True,circular
+Solicito estados de venta con gráfico de dispersión,True,dispersion
+Dame los productos sin stock y graficalos,1,barras
+Consulta: descuentos aplicados y muestra gráfico,True,barras
+Consulta: haz gráfica la participación de mercado,True,circular
+Dispersión de precios por categoría,True,dispersion
+Total vendido este mes,0,ninguno
+Solicito primeros 5 clientes ordenados alfabéticamente agregando chart,1,barras
+Requiero movimientos de inventario visualizado en línea,True,lineal
+Requiero dame los ventas mensuales del último año y graficalos,1,lineal
+Requiero visualiza los productos más vendidos,True,barras
+Resultados del trimestre?,True,lineal
+Solicito presentar en gráfico la participación de mercado,True,circular
+Presenta en gráfico los métodos de pago,True,barras
+visualiza en un gráfico los stock por categoría,1,circular
+Podrías dibuja gráfico las ventas por hora,True,barras
+ventas por vendedor y muestra histograma,1,histograma
+COMPOSICIÓN DEL INVENTARIO POR CATEGORÍA,False,ninguno
+Quiero compras por proveedor y haz un gráfico de pastel,True,circular
+Consulta: top 10 productos más vendidos con gráfico,True,barras
+Quiero haz un gráfico de los productos por categoría,True,barras
+Solicito top 10 productos más vendidos con gráfico,True,barras
+genera chart la evolución de precios,1,barras
+Podrías tipos de comprobante y haz un gráfico de pastel,True,circular
+Obtener mostrame los primeros 5 clientes ordenados alfabéticamente y grafica los resultados,1,barras
+Requiero grafica la distribución de clientes,1,histograma
+Solicito dame los productos con mayor margen y graficalos,1,barras
+Requiero top 10 productos más vendidos visualizado en línea,True,lineal
+stock por categoría agregando chart,1,barras
+Sería posible plotear los productos más vendidos,1,barras
+crea un plot de los top 10 productos más vendidos,1,dispersion
+productos con mayor margen y muestra histograma,1,histograma
+Me gustaría obten los tipos de comprobante y visualizalos en un gráfico,True,barras
+productos sin stock y muestra gráfico,True,barras
+Sería posible ventas por vendedor y muestra gráfico,True,barras
+ventas por temporada con gráfico de dispersión,1,dispersion
+Mostrar presentar en gráfico los productos más vendidos,True,barras
+Necesito dibujar gráfico la frecuencia de compras,True,histograma
+genera chart las ventas mensuales,1,barras
+Solicito lista los ventas por hora del día y muestra un gráfico,True,barras
+Quiero primeros 5 clientes ordenados alfabéticamente y muestra un gráfico de barras,True,barras
+Me gustaría muestra gráfico los productos más vendidos,True,barras
+DAME LOS PRODUCTOS CON MAYOR MARGEN Y GRAFICALOS,1,barras
+Me gustaría productos sin stock y graficalo en barras,1,barras
+tipos de comprobante y muestra histograma,1,histograma
+Quiero dibuja gráfico las ventas mensuales,True,lineal
+Estadísticas de productos,False,ninguno
+Necesito mostrar gráfico los métodos de pago,True,barras
+presenta en gráfico el stock por categoría,1,barras
+dibuja un gráfico con los primeros 5 clientes ordenados alfabéticamente,True,barras
+genera una gráfica de los descuentos aplicados por favor,True,barras
+Obtener buscar productos de la marca nike,False,ninguno
+tipos de comprobante y muestra histograma,True,histograma
+dame los clientes registrados por mes y graficalos,1,barras
+Histograma de cantidades vendidas?,True,histograma
+consulta los movimientos de inventario y genera un chart,1,barras
+MUESTRA GRÁFICO LA FRECUENCIA DE COMPRAS,True,histograma
+Plotear los productos más vendidos,1,barras
+clientes registrados por mes con gráfico circular,1,circular
+Plotea la participación de mercado,1,circular
+Podrías plotea los productos más vendidos,1,barras
+Quiero muestrame los movimientos de inventario y presenta un gráfico,True,barras
+Mostrar gráfico las ventas por hora,True,barras
+Graficar los productos más vendidos,1,barras
+Dame ventas por temporada con gráfico,True,barras
+Podrías clientes registrados por mes incluyendo gráfica,True,barras
+Obtener evolución del inventario total,False,ninguno
+crear plot los métodos de pago,1,lineal
+Solicito top 10 productos más vendidos agregando chart,1,barras
+Quiero busca los estados de venta y crea una gráfica,True,barras
+Requiero mostrame los ventas mensuales del último año y grafica los resultados,1,lineal
+graficar la participación de mercado,1,barras
+Quiero consulta los top 10 productos más vendidos y genera un chart,1,barras
+Consulta: grafica la frecuencia de compras,1,histograma
+haz un gráfico de los ventas por temporada,1,barras
+Podrías transacciones rechazadas este mes,True,barras
+Solicito visualiza en un gráfico los ventas por vendedor,True,barras
+crea un plot de los ventas por temporada?,1,barras
+Relación entre precio y cantidad vendida,1,dispersion
+Quiero top 10 productos más vendidos con gráfico de dispersión,True,dispersion
+Dame productos más vendidos por categoría,True,barras
+Consulta: muestra en un chart los movimientos de inventario,1,barras
+Grafica los productos con mayor margen,1,barras
+Requiero distribución de precios de productos,True,histograma
+precios promedio por marca incluyendo gráfica,1,lineal
+Me gustaría mostrar gráfico los métodos de pago,True,barras
+Quiero hacer gráfica las ventas mensuales,True,lineal
+Obtener dibuja un gráfico con los ventas por hora del día,True,barras
+Obtener análisis de tendencias,True,lineal
+Visualiza en un gráfico los ventas mensuales del último año,True,lineal
+Productos con mayor margen de ganancia,1,barras
+Productos sin stock y haz un gráfico de pastel,True,circular
+obten los ventas por hora del día y visualizalos en un gráfico,True,barras
+Obtener tipos de comprobante y muestra histograma,True,histograma
+Solicito ventas por hora del día incluyendo gráfica,True,barras
+extrae los transacciones por estado y haz un plot,1,barras
+Solicito haz un gráfico de los ventas por temporada,True,barras
+presenta en gráfico los métodos de pago más utilizados,1,circular
+dibuja gráfico la frecuencia de compras?,True,histograma
+Requiero grafica la distribución de clientes,1,histograma
+Podrías obten los clientes registrados por mes y visualizalos en un gráfico,True,barras
+visualiza las ventas mensuales,True,lineal
+EXTRAE LOS PRODUCTOS POR CATEGORÍA Y HAZ UN PLOT,1,barras
+obten los clientes por grupo de edad y visualizalos en un gráfico,1,circular
+presenta en gráfico los movimientos de inventario,1,circular
+mostrar gráfico los productos más vendidos,1,circular
+mostrame los precios promedio por marca y grafica los resultados?,1,barras
+ventas por hora del día con gráfico?,True,barras
+Podrías extrae los descuentos aplicados y haz un plot,1,barras
+Necesito dibuja un gráfico con los clientes registrados por mes,True,barras
+Obtener stock por categoría con gráfico circular,True,circular
+grafica los primeros 5 clientes ordenados alfabéticamente?,1,barras
+Consulta: visualiza la frecuencia de compras,True,histograma
+visualizar los productos más vendidos,1,lineal
+generar chart los productos más vendidos,1,barras
+Análisis de tendencias,1,lineal
+Requiero grafica los productos con mayor margen,1,barras
+Sería posible lista los tipos de comprobante y muestra un gráfico,True,barras
+grafica la evolución de precios,1,barras
+primeros 5 clientes ordenados alfabéticamente y muestra histograma,1,histograma
+Requiero dibuja un gráfico con los compras por proveedor,True,barras
+Podrías haz gráfica la correlación precio-ventas,True,dispersion
+Mostrar muestrame los compras por proveedor y presenta un gráfico,True,barras
+Solicito presenta en gráfico los descuentos aplicados,True,barras
+Hacer gráfica las ventas por hora,True,barras
+Solicito ventas por vendedor y muestra histograma,True,histograma
+dibujar gráfico la distribución de clientes?,True,histograma
+Dame dibujar gráfico la evolución de precios,True,lineal
+Quiero productos que tienen descuento activo,False,ninguno
+Requiero movimientos de inventario y graficalo en barras,1,barras
+Dame stock por categoría en gráfico lineal,True,lineal
+Podrías estados de venta y muestra histograma,True,histograma
+Dame visualiza la participación de mercado,True,circular
+Me gustaría ventas por temporada agregando chart,1,barras
+lista los top 10 productos más vendidos y muestra un gráfico,1,barras
+Quiero visualiza en un gráfico los clientes por grupo de edad,True,barras
+GRAFICAR LA FRECUENCIA DE COMPRAS,1,histograma
+Tendencia de stock de un producto específico,1,lineal
+haz gráfica la frecuencia de compras,1,circular
+GRAFICA LA PARTICIPACIÓN DE MERCADO,1,circular
+visualizar el stock por categoría,1,lineal
+ventas por hora del día agregando chart,1,barras
+Consulta: ventas por hora del día y muestra gráfico,True,barras
+Sería posible ventas por hora del día con gráfico,True,barras
+Solicito productos con mayor margen y muestra histograma,True,histograma
+dibuja un gráfico con los ventas por hora del día,True,barras
+crea plot la distribución de clientes,1,lineal
+Mostrar haz un gráfico de los compras por proveedor,True,barras
+Podrías crecimiento de clientes registrados,True,lineal
+Quiero transacciones por estado y muestra un gráfico de barras,True,barras
+Requiero haz gráfica los productos más vendidos,True,barras
+DIBUJA GRÁFICO LA PARTICIPACIÓN DE MERCADO,True,circular
+obten los stock por categoría y visualizalos en un gráfico?,True,barras
+precios promedio por marca en gráfico lineal,1,lineal
+clientes registrados por mes incluyendo gráfica,True,barras
+Obtener lista de todos los proveedores,False,ninguno
+crea un plot de los productos por categoría,1,barras
+presentar en gráfico las ventas por hora,1,barras
+Consulta: mostrame los ventas mensuales del último año y grafica los resultados,1,lineal
+generar chart la correlación precio-ventas,1,barras
+dame los clientes registrados por mes y graficalos?,1,barras
+mostrame los compras por proveedor y grafica los resultados,1,barras
+Consulta: generar chart la correlación precio-ventas,1,dispersion
+visualizar la evolución de precios,1,lineal
+grafica los métodos de pago,1,barras
+presenta en gráfico la participación de mercado,1,barras
+muestra en un chart los ventas mensuales del último año,1,lineal
+Requiero crea plot la distribución de clientes,1,histograma
+crea un plot de los productos por categoría,1,dispersion
+Consulta: top 10 productos más vendidos en gráfico lineal,True,lineal
+Sería posible dibuja gráfico los métodos de pago,True,barras
+MUESTRAME LOS VENTAS MENSUALES DEL ÚLTIMO AÑO Y PRESENTA UN GRÁFICO,True,lineal
+Sería posible graficar las ventas mensuales,1,lineal
+Requiero visualiza en un gráfico los productos con mayor margen,True,barras
+Obtener grafica los precios promedio por marca,1,barras
+visualiza en un gráfico los productos por categoría,1,circular
+haz gráfica las ventas por hora,True,barras
+Obtener clientes por grupo de edad y muestra gráfico,True,barras
+Podrías plotear las ventas mensuales,1,lineal
+Requiero visualiza en un gráfico los ventas por vendedor,True,barras
+Me gustaría generar chart la participación de mercado,1,circular
+Mostrar crea plot las ventas mensuales,1,lineal
+Consulta: visualiza en un gráfico los stock por categoría,True,barras
+Quiero haz un gráfico de los top 10 productos más vendidos,True,barras
+Me gustaría crea plot la frecuencia de compras,1,histograma
+Me gustaría relación stock mínimo vs stock actual,False,ninguno
+grafica la frecuencia de compras,1,barras
+Busca los top 10 productos más vendidos y crea una gráfica,True,barras
+plotea la distribución de clientes,1,dispersion
+visualiza las ventas por hora,True,barras
+Quiero crea plot la participación de mercado,1,circular
+Quiero resumen de ventas del mes actual,True,barras
+Me gustaría presenta en gráfico los descuentos aplicados,True,barras
+Análisis de mercado,1,barras
+grafica los tipos de comprobante,1,barras
+genera una gráfica de los tipos de comprobante por favor,True,barras
+Obten los ventas mensuales del último año y visualizalos en un gráfico,True,lineal
+Compras por proveedor y muestra gráfico,True,barras
+Quiero stock por categoría de productos,True,barras
+extrae los transacciones por estado y haz un plot,1,barras
+Necesito ventas por vendedor agregando chart,1,barras
+GRAFICA LAS VENTAS POR HORA,1,barras
+mostrame los stock por categoría y grafica los resultados?,1,barras
+Resumen financiero,0,ninguno
+Dame haz un gráfico de los métodos de pago más utilizados,True,barras
+Quiero mostrame los productos por categoría y grafica los resultados,1,barras
+Productos que necesitan reposición,0,ninguno
+genera chart las ventas por hora,1,barras
+CONSULTA LOS PRODUCTOS SIN STOCK Y GENERA UN CHART,1,barras
+Dibuja gráfico la distribución de clientes,True,histograma
+primeros 5 clientes ordenados alfabéticamente con gráfico de dispersión,1,dispersion
+Mostrar tipos de comprobante con gráfico circular,True,circular
+muestrame los ventas por vendedor y presenta un gráfico,1,circular
+genera una gráfica de los productos por categoría por favor,True,barras
+Me gustaría dibuja un gráfico con los clientes registrados por mes,True,barras
+dame los productos por categoría y graficalos,1,barras
+hacer gráfica los métodos de pago,1,circular
+Sería posible haz un gráfico de los ventas por hora del día,True,barras
+muestra gráfico el stock por categoría,1,circular
+Solicito productos sin stock en gráfico lineal,True,lineal
+tipos de comprobante con gráfico de dispersión,True,dispersion
+Transacciones rechazadas este mes,0,ninguno
+lista los ventas mensuales del último año y muestra un gráfico,True,lineal
+Necesito crea un plot de los métodos de pago más utilizados,1,barras
+Necesito clientes que tienen email gmail.com,False,ninguno
+Dame stock por categoría y graficalo en barras,1,barras
+Movimientos de inventario y haz un gráfico de pastel,True,circular
+tipos de comprobante con gráfico de dispersión,1,dispersion
+Consulta: clientes por grupo de edad visualizado en línea,True,lineal
+top 10 productos más vendidos agregando chart,1,barras
+Obtener movimientos de inventario con gráfico,True,barras
+presenta en gráfico los ventas por vendedor,1,circular
+Sería posible presenta en gráfico los ventas por hora del día,True,barras
+MOSTRAME LOS STOCK POR CATEGORÍA Y GRAFICA LOS RESULTADOS,1,barras
+crear plot la participación de mercado,1,lineal
+Frecuencia de montos de venta,1,histograma
+Necesito presentar en gráfico la frecuencia de compras,True,histograma
+dibuja gráfico la evolución de precios por favor,True,lineal
+stock por categoría y muestra un gráfico de barras?,True,barras
+métodos de pago más utilizados y muestra gráfico,1,circular
+mostrame los top 10 productos más vendidos y grafica los resultados por favor,1,barras
+Solicito genera una gráfica de los descuentos aplicados,True,barras
+Mostrar muestra en un chart los ventas mensuales del último año,1,lineal
+busca los métodos de pago más utilizados y crea una gráfica,True,barras
+Evolución del inventario total,1,lineal
+grafica la correlación precio-ventas,1,barras
+Me gustaría extrae los ventas mensuales del último año y haz un plot,1,lineal
+Ventas canceladas en la última semana?,False,ninguno
+Consulta: consulta los precios promedio por marca y genera un chart,1,barras
+extrae los productos por categoría y haz un plot,1,lineal
+obten los ventas mensuales del último año y visualizalos en un gráfico?,True,lineal
+Sería posible grafica las ventas por hora,1,barras
+primeros 5 clientes ordenados alfabéticamente agregando chart,1,barras
+Dame generar chart las ventas por hora,1,barras
+visualizar las ventas por hora,1,barras
+Podrías productos sin stock con gráfico circular,True,circular
+Consulta: generar chart la distribución de clientes,1,histograma
+productos sin stock y muestra un gráfico de barras por favor,True,barras
+Mostrar top 10 productos más vendidos con gráfico circular,True,circular
+ventas por vendedor con gráfico de dispersión,True,dispersion
+métodos de pago más utilizados y gráfico,1,barras
+Necesito stock por categoría y muestra gráfico,True,barras
+Proporción de tipos de comprobante,1,circular
+Plotea la correlación precio-ventas,1,dispersion
+ventas por temporada visualizado en línea,1,lineal
+Clientes registrados por mes,1,barras
+Podrías graficar los métodos de pago,1,barras
+Plotear la correlación precio-ventas,1,dispersion
+Lista los clientes por grupo de edad y muestra un gráfico,True,barras
+Podrías transacciones pendientes de confirmación,False,ninguno
+Consulta: grafica la correlación precio-ventas,1,dispersion
+Requiero lista los top 10 productos más vendidos y muestra un gráfico,True,barras
+obten los primeros 5 clientes ordenados alfabéticamente y visualizalos en un gráfico,1,circular
+graficar la evolución de precios,1,lineal
+dibujar gráfico la frecuencia de compras,1,lineal
+Comparación precio costo vs precio venta,True,dispersion
+crea plot los productos más vendidos,1,lineal
+dibuja gráfico la evolución de precios,True,lineal
+Mostrar presenta en gráfico los productos por categoría,True,barras
+Distribución de días entre compras,1,histograma
+visualiza la participación de mercado por favor,True,circular
+Requiero muestra gráfico la correlación precio-ventas,True,dispersion
+grafica los precios promedio por marca,1,barras
+DIBUJA GRÁFICO LOS PRODUCTOS MÁS VENDIDOS,True,barras
+Podrías haz un gráfico de los productos con mayor margen,True,barras
+Podrías ventas por temporada agregando chart,1,barras
+Dame visualiza en un gráfico los stock por categoría,True,barras
+Dame plotea la correlación precio-ventas,1,dispersion
+grafica los tipos de comprobante por favor,1,barras
+productos por categoría con gráfico de dispersión,1,dispersion
+Podrías descuentos aplicados y gráfico,True,barras
+Podrías presenta en gráfico los métodos de pago más utilizados,True,barras
+Obtener hacer gráfica la correlación precio-ventas,True,dispersion
+Requiero consulta los descuentos aplicados y genera un chart,1,barras
+Obtener buscar comprobante por número 001-000456,False,ninguno
+GRAFICAR LA CORRELACIÓN PRECIO-VENTAS,1,dispersion
+Clientes inactivos en el sistema por favor,True,barras
+presenta en gráfico la frecuencia de compras,1,barras
+Podrías muestra gráfico la distribución de clientes,True,histograma
+dispersión de precios por categoría,True,dispersion
+Solicito análisis de clientes,True,barras
+plotear la correlación precio-ventas,1,dispersion
+muestrame los descuentos aplicados y presenta un gráfico,1,circular
+primeros 5 clientes ordenados alfabéticamente y muestra un gráfico de barras,True,barras
+lista todos los clientes activos,False,ninguno
+busca los precios promedio por marca y crea una gráfica,1,lineal
+Requiero plotea la distribución de clientes,1,histograma
+Me gustaría transacciones por estado y haz un gráfico de pastel,True,circular
+Quiero obten los clientes registrados por mes y visualizalos en un gráfico,True,barras
+crea plot las ventas mensuales,1,lineal
+productos sin stock y graficalo en barras,1,barras
+Me gustaría mostrar gráfico la distribución de clientes,True,histograma
+Dame grafica los stock por categoría,1,barras
+Me gustaría transacciones por estado y gráfico,True,barras
+muestra en un chart los movimientos de inventario,1,barras
+Obtener genera una gráfica de los precios promedio por marca,True,barras
+PLOTEA LA FRECUENCIA DE COMPRAS,1,histograma
+stock por categoría en gráfico lineal por favor,True,lineal
+grafica las ventas por hora,1,barras
+precios promedio por marca agregando chart,1,barras
+Buscar comprobante por número 001-000456 por favor,False,ninguno
+Quiero mostrame los compras por proveedor y grafica los resultados,1,barras
+Dame clientes por grupo de edad en gráfico lineal,True,lineal
+Solicito progresión de ventas acumuladas,True,lineal
+tipos de comprobante con gráfico de dispersión?,True,dispersion
+Me gustaría obten los ventas mensuales del último año y visualizalos en un gráfico,True,lineal
+muestra gráfico las ventas por hora?,True,barras
+crea plot el stock por categoría,1,barras
+estados de venta y muestra gráfico,1,circular
+muestra en un chart los clientes registrados por mes,1,barras
+Obtener distribución de ventas por categoría,True,histograma
+Quiero clientes por grupo de edad y haz un gráfico de pastel,True,circular
+Actualizar precio del producto SKU ABC123,0,ninguno
+stock por categoría y gráfico por favor,True,barras
+Consulta: Stock actual de todos los productos,False,ninguno
+ventas por vendedor con gráfico de dispersión,1,dispersion
+Obtener haz gráfica las ventas mensuales,True,lineal
+compras por proveedor y graficalo en barras,1,barras
+Consulta: crea un plot de los productos por categoría,1,barras
+Quiero lista los tipos de comprobante y muestra un gráfico,True,barras
+presentar en gráfico los productos más vendidos,1,barras
+TOP 10 PRODUCTOS MÁS VENDIDOS AGREGANDO CHART,1,barras
+Lista los descuentos aplicados y muestra un gráfico,True,barras
+Me gustaría variación de precios de productos,True,barras
+Podrías busca los compras por proveedor y crea una gráfica,True,barras
+Dame dame los métodos de pago más utilizados y graficalos,1,barras
+generar chart la participación de mercado,1,circular
+Ventas por vendedor con gráfico de dispersión,True,dispersion
+Mostrar plotear las ventas por hora,1,barras
+Quiero crea un plot de los top 10 productos más vendidos,1,barras
+dame los productos sin stock y graficalos por favor,1,barras
+Mostrar grafica los productos más vendidos,1,barras
+dibuja gráfico la participación de mercado,1,lineal
+Quiero tipos de comprobante y haz un gráfico de pastel,True,circular
+Obtener presenta en gráfico la distribución de clientes,True,histograma
+ventas mensuales del último año y graficalo en barras,1,barras
+Dame dame los stock por categoría y graficalos,1,barras
+mostrame los tipos de comprobante y grafica los resultados,1,barras
+Quiero comportamiento de ventas por temporada,True,barras
+Obtener dibuja gráfico la correlación precio-ventas,True,dispersion
+Obtener presentar en gráfico las ventas por hora,True,barras
+consulta los tipos de comprobante y genera un chart,1,barras
+Podrías distribución de estados de venta,False,ninguno
+dibuja un gráfico con los productos con mayor margen,True,barras
+graficar los métodos de pago,1,barras
+Requiero extrae los tipos de comprobante y haz un plot,1,barras
+busca los estados de venta y crea una gráfica,True,barras
+Obtener hacer gráfica los productos más vendidos,True,barras
+clientes por grupo de edad visualizado en línea,1,lineal
+Sería posible haz gráfica los productos más vendidos,True,barras
+Productos por categoría visualizado en línea,True,lineal
+crear plot la distribución de clientes,1,histograma
+Dame plotear la evolución de precios,1,lineal
+Sería posible grafica los ventas por temporada,1,barras
+dibujar gráfico la evolución de precios,1,lineal
+Me gustaría presenta en gráfico la distribución de clientes,True,histograma
+CREAR PLOT LOS MÉTODOS DE PAGO,1,barras
+hacer gráfica el stock por categoría,1,circular
+presenta en gráfico las ventas por hora,1,barras
+Distribución de precios de productos,1,histograma
+busca los clientes por grupo de edad y crea una gráfica,1,lineal
+Distribución de precios de productos,True,histograma
+Consulta: presentar en gráfico la frecuencia de compras,True,histograma
+Obtener busca los ventas por temporada y crea una gráfica,True,barras
+Quiero tipos de comprobante y muestra gráfico,True,barras
+Sería posible grafica los primeros 5 clientes ordenados alfabéticamente,1,barras
+Mostrar visualiza la distribución de clientes,True,histograma
+Obtener clientes registrados por mes y gráfico,True,barras
+Obtener crea un plot de los ventas por vendedor,1,barras
+Sería posible extrae los top 10 productos más vendidos y haz un plot,1,barras
+métricas comerciales,True,barras
+Requiero grafica los métodos de pago,1,barras
+Obtener consulta los estados de venta y genera un chart,1,barras
+Dame generar chart las ventas mensuales,1,lineal
+muestra gráfico los métodos de pago,1,circular
+MOSTRAME LOS PRECIOS PROMEDIO POR MARCA Y GRAFICA LOS RESULTADOS,1,barras
+visualizar las ventas por hora,1,barras
+Quiero actualizar precio del producto sku abc123,False,ninguno
+Mostrar crea un plot de los ventas por vendedor,1,barras
+lista los top 10 productos más vendidos y muestra un gráfico,True,barras
+Me gustaría análisis de mercado,True,barras
+lista los productos por categoría y muestra un gráfico,True,barras
+generar chart la distribución de clientes,1,barras
+haz un gráfico de los compras por proveedor,1,barras
+Dame muestra en un chart los ventas por temporada,1,barras
+Obtener dibuja gráfico los métodos de pago,True,barras
+Métodos de pago más utilizados y gráfico,True,barras
+Requiero dame los ventas por hora del día y graficalos,1,barras
+clientes por grupo de edad en gráfico lineal,1,lineal
+Mostrar generar chart los métodos de pago,1,barras
+Quiero ventas por hora del día y muestra gráfico,True,barras
+Consulta: grafica el stock por categoría,1,barras
+Dame muestra en un chart los clientes registrados por mes,1,barras
+Solicito compras por proveedor y graficalo en barras,1,barras
+Requiero ventas por temporada con gráfico de dispersión,True,dispersion
+plotear las ventas mensuales,1,lineal
+Lista los top 10 productos más vendidos y muestra un gráfico,True,barras
+visualiza la distribución de clientes,1,lineal
+PRODUCTOS SIN STOCK CON GRÁFICO CIRCULAR,True,circular
+Dame presenta en gráfico los productos más vendidos,True,barras
+muestra gráfico la correlación precio-ventas,1,circular
+Frecuencia de montos de venta por favor,False,ninguno
+Dame ventas por temporada incluyendo gráfica,True,barras
+grafica las ventas mensuales,1,barras
+Dame métricas comerciales,True,barras
+ventas por hora del día agregando chart?,1,barras
+Me gustaría generar chart la distribución de clientes,1,histograma
+plotear la evolución de precios?,1,lineal
+Dame presentar en gráfico las ventas mensuales,True,lineal
+PRESENTA EN GRÁFICO LOS PRODUCTOS POR CATEGORÍA,True,barras
+GENERA UNA GRÁFICA DE LOS VENTAS POR VENDEDOR,True,barras
+obten los primeros 5 clientes ordenados alfabéticamente y visualizalos en un gráfico?,True,barras
+visualizar las ventas por hora,1,lineal
+Dame haz gráfica la participación de mercado,True,circular
+plotear el stock por categoría,1,dispersion
+Sería posible generar chart la frecuencia de compras,1,histograma
+consulta los descuentos aplicados y genera un chart por favor,1,barras
+ventas por temporada con gráfico,1,barras
+Obtener muestra gráfico la evolución de precios,True,lineal
+Dame extrae los top 10 productos más vendidos y haz un plot,1,barras
+Podrías clientes por grupo de edad y muestra gráfico,True,barras
+busca los top 10 productos más vendidos y crea una gráfica,1,lineal
+Sería posible presenta en gráfico las ventas mensuales,True,lineal
+crea un plot de los métodos de pago más utilizados,1,dispersion
+Mostrar muestrame los productos por categoría y presenta un gráfico,True,barras
+PRODUCTOS POR CATEGORÍA AGREGANDO CHART,1,barras
+busca los movimientos de inventario y crea una gráfica,1,lineal
+descuentos aplicados agregando chart,1,barras
+Obtener muestra gráfico la participación de mercado,True,circular
+Consulta: muestra en un chart los productos sin stock,1,barras
+Dame grafica el stock por categoría,1,barras
+Quiero hacer gráfica las ventas mensuales,True,lineal
+grafica los métodos de pago más utilizados,1,barras
+grafica los métodos de pago,1,barras
+Obtener obten los movimientos de inventario y visualizalos en un gráfico,True,barras
+Me gustaría presenta en gráfico la participación de mercado,True,circular
+Dame mostrar gráfico la correlación precio-ventas,True,dispersion
+Me gustaría productos sin stock y graficalo en barras,1,barras
+presenta en gráfico los tipos de comprobante,1,circular
+Solicito métricas de rendimiento,True,barras
+Obtener consulta los precios promedio por marca y genera un chart,1,barras
+dame los ventas mensuales del último año y graficalos,1,barras
+Obtener graficar las ventas por hora,1,barras
+dibujar gráfico la evolución de precios,True,lineal
+ventas por hora del día y muestra gráfico,True,barras
+Total vendido este mes,False,ninguno
+Solicito reporte de inventario,True,barras
+Me gustaría productos más vendidos por categoría,False,ninguno
+extrae los transacciones por estado y haz un plot,1,lineal
+Mostrar dibujar gráfico la correlación precio-ventas,True,dispersion
+Ventas por método de pago,1,barras
+MÉTODOS DE PAGO MÁS UTILIZADOS Y MUESTRA GRÁFICO,True,barras
+Requiero top 10 productos más vendidos con gráfico de dispersión,True,dispersion
+Sería posible visualizar el stock por categoría,1,barras
+productos con mayor margen y muestra histograma,True,histograma
+Requiero presenta en gráfico los movimientos de inventario,True,barras
+Necesito dame los compras por proveedor y graficalos,1,barras
+DESCUENTOS APLICADOS Y MUESTRA UN GRÁFICO DE BARRAS,True,barras
+Quiero crea un plot de los clientes registrados por mes,1,barras
+LISTA LOS PRECIOS PROMEDIO POR MARCA Y MUESTRA UN GRÁFICO,True,barras
+grafica los compras por proveedor por favor,1,barras
+Mostrar grafica los ventas por temporada,1,barras
+Necesito estados de venta con gráfico circular,True,circular
+Dame presenta en gráfico los compras por proveedor,True,barras
+stock por categoría agregando chart por favor,1,barras
+grafica los productos con mayor margen,1,barras
+Mostrar haz gráfica la frecuencia de compras,True,histograma
+Me gustaría mostrame los descuentos aplicados y grafica los resultados,1,barras
+hacer gráfica la correlación precio-ventas,1,circular
+Dame busca los clientes por grupo de edad y crea una gráfica,True,barras
+hacer gráfica los métodos de pago,True,barras
+Requiero presenta en gráfico los descuentos aplicados,True,barras
+dibujar gráfico los productos más vendidos,1,lineal
+graficar la distribución de clientes,1,barras
+Solicito ventas por hora del día incluyendo gráfica,True,barras
+mostrar gráfico la evolución de precios,True,lineal
+Dame movimientos de inventario del producto id 10,False,ninguno
+mostrame los precios promedio por marca y grafica los resultados,1,barras
+Obtener obten los estados de venta y visualizalos en un gráfico,True,barras
+Consulta: crea un plot de los productos con mayor margen,1,barras
+mostrar gráfico la frecuencia de compras,1,circular
+Requiero estadísticas de ventas,True,barras
+Obtener crear plot los productos más vendidos,1,barras
+productos por categoría en gráfico lineal,1,lineal
+crear plot la evolución de precios,1,lineal
+top 10 productos más vendidos con gráfico de dispersión,1,dispersion
+Obtener dibuja un gráfico con los ventas por hora del día,True,barras
+Me gustaría transacciones por estado,True,barras
+ventas por temporada y haz un gráfico de pastel,1,circular
+Consulta: Resumen financiero,True,barras
+Actualizar teléfono del cliente con ID 15,0,ninguno
+muestrame los transacciones por estado y presenta un gráfico por favor,True,barras
+Podrías grafica los tipos de comprobante,1,barras
+Podrías descuentos aplicados con gráfico,True,barras
+extrae los primeros 5 clientes ordenados alfabéticamente y haz un plot,1,barras
+Dame busca los métodos de pago más utilizados y crea una gráfica,True,barras
+productos por categoría visualizado en línea,1,lineal
+presentar en gráfico el stock por categoría,1,barras
+descuentos aplicados y muestra gráfico por favor,True,barras
+Solicito presentar en gráfico la correlación precio-ventas,True,dispersion
+visualizar las ventas mensuales,1,lineal
+mostrar gráfico la frecuencia de compras,True,histograma
+Mostrar métodos de pago más utilizados agregando chart,1,barras
+lista los descuentos aplicados y muestra un gráfico,1,barras
+stock por categoría y gráfico?,True,barras
+Dame porcentaje de productos con descuento,False,ninguno
+Quiero presenta en gráfico la participación de mercado,True,circular
+dibuja gráfico la distribución de clientes,True,histograma
+Consulta: visualizar los productos más vendidos,1,barras
+genera chart el stock por categoría,1,barras
+Obtener productos con mayor margen de ganancia,True,barras
+clientes registrados por mes incluyendo gráfica,1,lineal
+dibujar gráfico los productos más vendidos,True,barras
+Obtener estados de venta con gráfico de dispersión,True,dispersion
+PLOTEAR LA PARTICIPACIÓN DE MERCADO,1,circular
+Consulta: presentar en gráfico el stock por categoría,True,barras
+descuentos aplicados incluyendo gráfica,1,lineal
+Me gustaría dame los clientes registrados por mes y graficalos,1,barras
+Quiero lista los top 10 productos más vendidos y muestra un gráfico,True,barras
+Dame dame los ventas por hora del día y graficalos,1,barras
+Comparación precio costo vs precio venta,True,dispersion
+dibuja gráfico las ventas mensuales,True,lineal
+Solicito crear plot los productos más vendidos,1,barras
+crear plot los productos más vendidos,1,lineal
+clientes registrados por mes con gráfico circular por favor,True,circular
+Me gustaría busca los movimientos de inventario y crea una gráfica,True,barras
+Dame stock por categoría con gráfico,True,barras
+Sería posible ventas mensuales del último año incluyendo gráfica,True,lineal
+genera una gráfica de los primeros 5 clientes ordenados alfabéticamente,True,barras
+Sería posible análisis de mercado,True,barras
+genera una gráfica de los tipos de comprobante,1,histograma
+Obtener muestrame los ventas mensuales del último año y presenta un gráfico,True,lineal
+mostrar gráfico los métodos de pago,1,circular
+Quiero crear plot la distribución de clientes,1,histograma
+Podrías obten los primeros 5 clientes ordenados alfabéticamente y visualizalos en un gráfico,True,barras
+Sería posible mostrame los primeros 5 clientes ordenados alfabéticamente y grafica los resultados,1,barras
+Sería posible productos con mayor margen visualizado en línea,True,lineal
+CREA UN PLOT DE LOS CLIENTES POR GRUPO DE EDAD,1,barras
+Presenta en gráfico los compras por proveedor,True,barras
+Podrías buscar productos por color rojo,False,ninguno
+descuentos aplicados agregando chart,1,barras
+Consulta: visualiza en un gráfico los clientes por grupo de edad,True,barras
+Necesito grafica los productos con mayor margen,1,barras
+Sería posible mostrame los descuentos aplicados y grafica los resultados,1,barras
+plotea las ventas por hora,1,dispersion
+TOP 10 PRODUCTOS MÁS VENDIDOS VISUALIZADO EN LÍNEA,True,lineal
+Solicito movimientos de inventario visualizado en línea,True,lineal
+Actualizar precio del producto SKU ABC123 por favor,False,ninguno
+Métricas comerciales,True,barras
+Requiero movimientos de inventario con gráfico de dispersión,True,dispersion
+MOSTRAR GRÁFICO LA PARTICIPACIÓN DE MERCADO,True,circular
+Obtener muestra gráfico el stock por categoría,True,barras
+Necesito presenta en gráfico la frecuencia de compras,True,histograma
+Ventas por vendedor y muestra gráfico,True,barras
+Consulta: dame los stock por categoría y graficalos,1,barras
+Quiero dibujar gráfico la evolución de precios,True,lineal
+Solicito métodos de pago más utilizados en gráfico lineal,True,lineal
+Obtener evolución de ventas en los últimos 6 meses,False,ninguno
+ventas mensuales del último año con gráfico de dispersión,1,dispersion
+BUSCA LOS MOVIMIENTOS DE INVENTARIO Y CREA UNA GRÁFICA,True,barras
+VISUALIZAR LOS PRODUCTOS MÁS VENDIDOS,1,barras
+muestra en un chart los productos con mayor margen,1,lineal
+Necesito ventas por método de pago,False,ninguno
+muestra en un chart los transacciones por estado,1,lineal
+Requiero tipos de comprobante con gráfico de dispersión,True,dispersion
+crear plot las ventas por hora,1,barras
+Solicito compras por proveedor visualizado en línea,True,lineal
+Mostrar visualiza en un gráfico los transacciones por estado,True,barras
+Obtener clientes registrados por mes en gráfico lineal,True,lineal
+Requiero transacciones por estado,False,ninguno
+presenta en gráfico los compras por proveedor,True,barras
+Me gustaría hacer gráfica los productos más vendidos,True,barras
+Obtener presenta en gráfico los movimientos de inventario,True,barras
+muestrame los estados de venta y presenta un gráfico,1,circular
+genera una gráfica de los clientes registrados por mes?,True,barras
+DESCUENTOS APLICADOS INCLUYENDO GRÁFICA,True,barras
+Mostrar productos con precio mayor a 100 soles,0,ninguno
+mostrame los stock por categoría y grafica los resultados?,1,barras
+Necesito visualizar los productos más vendidos,1,barras
+Consulta: dame los productos por categoría y graficalos,1,barras
+genera chart las ventas mensuales,1,lineal
+Solicito mostrar gráfico el stock por categoría,True,barras
+haz gráfica las ventas por hora,1,circular
+Requiero stock por categoría agregando chart,1,barras
+Requiero ventas por vendedor visualizado en línea,True,lineal
+Solicito ventas por hora del día,True,barras
+ventas mensuales del último año,False,ninguno
+Mostrar mostrame los descuentos aplicados y grafica los resultados,1,barras
+Me gustaría ventas por hora del día incluyendo gráfica,True,barras
+Necesito productos con mayor margen visualizado en línea,True,lineal
+Solicito haz un gráfico de los productos con mayor margen,True,barras
+Necesito precios promedio por marca agregando chart,1,barras
+TIPOS DE COMPROBANTE CON GRÁFICO CIRCULAR,True,circular
+Podrías hacer gráfica la correlación precio-ventas,True,dispersion
+dibuja un gráfico con los productos con mayor margen,1,barras
+dibuja gráfico la frecuencia de compras por favor,True,histograma
+Obtener visualiza la correlación precio-ventas,True,dispersion
+GENERA UNA GRÁFICA DE LOS CLIENTES REGISTRADOS POR MES,True,barras
+Solicito ventas por temporada en gráfico lineal,True,lineal
+Requiero haz un gráfico de los ventas mensuales del último año,True,lineal
+Consulta: Dashboard de ventas,True,barras
+Consulta: extrae los ventas por hora del día y haz un plot,1,barras
+Necesito dibuja un gráfico con los transacciones por estado,True,barras
+Quiero resultados del trimestre,True,lineal
+Podrías genera chart la participación de mercado,1,circular
+Requiero generar chart los productos más vendidos,1,barras
+plotear los métodos de pago,1,dispersion
+Mostrar descuentos aplicados con gráfico,True,barras
+GENERA UNA GRÁFICA DE LOS DESCUENTOS APLICADOS,True,barras
+CREA UN PLOT DE LOS TOP 10 PRODUCTOS MÁS VENDIDOS,1,barras
+stock por categoría y gráfico,1,barras
+Dame productos sin stock con gráfico,True,barras
+Solicito lista todos los clientes activos,False,ninguno
+obten los ventas por hora del día y visualizalos en un gráfico,1,circular
+estados de venta con gráfico circular,True,circular
+Quiero presentar en gráfico las ventas por hora,True,barras
+Sería posible dibuja gráfico el stock por categoría,True,barras
+Requiero dame los métodos de pago más utilizados y graficalos,1,barras
+Ventas del día de hoy,True,barras
+Evolución de ventas en los últimos 6 meses por favor,True,lineal
+Solicito dibuja un gráfico con los transacciones por estado,True,barras
+Clientes registrados por mes y graficalo en barras,1,barras
+consulta los transacciones por estado y genera un chart,1,barras
+Sería posible genera una gráfica de los tipos de comprobante,True,barras
+Dame tendencia de productos más vendidos,False,ninguno
+Necesito relación stock mínimo vs stock actual,False,ninguno
+Me gustaría top 10 productos más vendidos en gráfico lineal,True,lineal
+Solicito clientes registrados por mes en gráfico lineal,True,lineal
+Mostrar extrae los descuentos aplicados y haz un plot,1,barras
+Me gustaría obten los stock por categoría y visualizalos en un gráfico,True,barras
+Sería posible muestra gráfico las ventas mensuales,True,lineal
+dibuja gráfico los productos más vendidos,1,lineal
+Me gustaría ventas por temporada y haz un gráfico de pastel,True,circular
+Obtener movimientos de inventario y muestra histograma,True,histograma
+Movimientos de inventario del producto ID 10,0,ninguno
+Solicito visualizar el stock por categoría,1,barras
+estados de venta con gráfico circular,1,circular
+Estadísticas de ventas,1,barras
+Comportamiento de ventas por temporada,1,lineal
+Necesito grafica los métodos de pago más utilizados,1,barras
+Dame crea un plot de los clientes por grupo de edad,1,barras
+Podrías busca los clientes por grupo de edad y crea una gráfica,True,barras
+Dame tipos de comprobante y gráfico,True,barras
+Dame descuentos aplicados y haz un gráfico de pastel,True,circular
+Indicadores clave por favor,False,ninguno
+extrae los compras por proveedor y haz un plot,1,lineal
+muestrame los movimientos de inventario y presenta un gráfico por favor,True,barras
+Solicito muestrame los precios promedio por marca y presenta un gráfico,True,barras
+Podrías distribución de edades de clientes,False,ninguno
+Necesito busca los ventas por temporada y crea una gráfica,True,barras
+Consulta: Tendencia de stock de un producto específico,True,lineal
+Necesito crea plot las ventas por hora,1,barras
+Consulta: muestra en un chart los productos sin stock,1,barras
+Dibuja un gráfico con los productos por categoría,True,barras
+generar chart las ventas mensuales,1,lineal
+Sería posible top 10 productos más vendidos y muestra histograma,True,histograma
+Podrías clientes registrados por mes incluyendo gráfica,True,barras
+Obtener generar chart los productos más vendidos,1,barras
+Quiero visualizar los métodos de pago,1,barras
+Solicito mostrar gráfico el stock por categoría,True,barras
+movimientos de inventario y haz un gráfico de pastel por favor,True,circular
+Me gustaría presenta en gráfico los ventas por vendedor,True,barras
+Dame plotea la correlación precio-ventas,1,dispersion
+Estados de venta y muestra gráfico,True,barras
+Consulta: stock por categoría y gráfico,True,barras
+extrae los ventas mensuales del último año y haz un plot?,1,lineal
+Evolución de ventas en los últimos 6 meses,1,lineal
+grafica los ventas por temporada,1,barras
+Solicito reporte ejecutivo,True,barras
+Podrías genera chart las ventas mensuales,1,lineal
+grafica los compras por proveedor,1,barras
+Necesito presenta en gráfico los clientes por grupo de edad,True,barras
+presenta en gráfico los descuentos aplicados,1,circular
+Podrías top 10 productos más vendidos y graficalo en barras,1,barras
+visualiza la frecuencia de compras,1,lineal
+mostrame los transacciones por estado y grafica los resultados,1,barras
+Sería posible crea plot la frecuencia de compras,1,histograma
+Consulta: Ventas del día de hoy,False,ninguno
+Podrías ventas mensuales del último año incluyendo gráfica,True,lineal
+Requiero generar chart las ventas por hora,1,barras
+plotea la correlación precio-ventas,1,dispersion
+tipos de comprobante incluyendo gráfica,1,lineal
+primeros 5 clientes ordenados alfabéticamente y gráfico,1,barras
+plotear los productos más vendidos,1,dispersion
+Ventas por cliente con ID 25,0,ninguno
+Necesito ventas por vendedor visualizado en línea,True,lineal
+Busca los productos con mayor margen y crea una gráfica,True,barras
+Me gustaría busca los productos con mayor margen y crea una gráfica,True,barras
+Podrías mostrame los stock por categoría y grafica los resultados,1,barras
+primeros 5 clientes ordenados alfabéticamente y gráfico,True,barras
+Dame genera chart la participación de mercado,1,circular
+crear plot la frecuencia de compras?,1,histograma
+EXTRAE LOS TIPOS DE COMPROBANTE Y HAZ UN PLOT,1,barras
+Necesito presenta en gráfico los movimientos de inventario,True,barras
+Solicito presentar en gráfico la participación de mercado,True,circular
+Descuentos aplicados incluyendo gráfica,True,barras
+Solicito muestrame los transacciones por estado y presenta un gráfico,True,barras
+Solicito genera una gráfica de los ventas por temporada,True,barras
+visualiza la participación de mercado,1,lineal
+dibuja gráfico la distribución de clientes,1,lineal
+Me gustaría productos sin stock actual,True,barras
+primeros 5 clientes ordenados alfabéticamente con gráfico de dispersión,True,dispersion
+Solicito movimientos de inventario con gráfico de dispersión,True,dispersion
+Mostrar top 10 productos más vendidos visualizado en línea,True,lineal
+precios promedio por marca y graficalo en barras por favor,1,barras
+Productos por categoría agregando chart,1,barras
+grafica los ventas por vendedor,1,barras
+stock por categoría y graficalo en barras?,1,barras
+Me gustaría descuentos aplicados y graficalo en barras,1,barras
+STOCK POR CATEGORÍA Y MUESTRA UN GRÁFICO DE BARRAS,True,barras
+extrae los estados de venta y haz un plot,1,lineal
+primeros 5 clientes ordenados alfabéticamente y muestra un gráfico de barras por favor,True,barras
+Requiero movimientos de inventario con gráfico,True,barras
+Me gustaría dame los productos sin stock y graficalos,1,barras
+Me gustaría genera una gráfica de los ventas por vendedor,True,barras
+Dame genera una gráfica de los productos con mayor margen,True,barras
+visualiza en un gráfico los productos con mayor margen,1,circular
+Sería posible crea un plot de los ventas por hora del día,1,barras
+Mostrar dibujar gráfico el stock por categoría,True,barras
+Me gustaría consulta los tipos de comprobante y genera un chart,1,barras
+Obtener presentar en gráfico los productos más vendidos,True,barras
+PLOTEAR LAS VENTAS POR HORA,1,barras
+Requiero haz un gráfico de los top 10 productos más vendidos,True,barras
+Podrías busca los productos con mayor margen y crea una gráfica,True,barras
+ventas mensuales del último año y muestra un gráfico de barras por favor,True,barras
+lista los tipos de comprobante y muestra un gráfico,1,barras
+Necesito ventas pendientes de pago,False,ninguno
+Podrías crear plot la correlación precio-ventas,1,dispersion
+ventas mensuales del último año y muestra histograma,1,histograma
+presenta en gráfico la correlación precio-ventas,1,barras
+Consulta: stock por categoría visualizado en línea,True,lineal
+Dame compras por proveedor y haz un gráfico de pastel,True,circular
+Quiero visualiza en un gráfico los productos por categoría,True,barras
+busca los compras por proveedor y crea una gráfica,1,lineal
+Necesito movimientos de inventario y gráfico,True,barras
+Quiero hacer gráfica la participación de mercado,True,circular
+Obtener muestra en un chart los ventas por temporada,1,barras
+ventas mensuales del último año y muestra un gráfico de barras,1,barras
+Quiero crea un plot de los estados de venta,1,barras
+Dame extrae los top 10 productos más vendidos y haz un plot,1,barras
+visualiza la evolución de precios,1,lineal
+Me gustaría mostrame los transacciones por estado y grafica los resultados,1,barras
+Sería posible relación stock mínimo vs stock actual,False,ninguno
+Movimientos de inventario y gráfico,True,barras
+muestra gráfico los productos más vendidos,1,circular
+dibuja un gráfico con los transacciones por estado,1,barras
+productos con mayor margen con gráfico?,True,barras
+reporte ejecutivo,True,barras
+Solicito graficar los métodos de pago,1,barras
+Quiero presentar en gráfico la distribución de clientes,True,histograma
+Podrías tendencia de productos más vendidos,True,lineal
+presenta en gráfico los clientes por grupo de edad,1,circular
+Necesito buscar productos de la marca nike,False,ninguno
+dibuja gráfico la correlación precio-ventas,True,dispersion
+Mostrar dibuja gráfico la correlación precio-ventas,True,dispersion
+Consulta: clientes registrados por mes incluyendo gráfica,True,barras
+Necesito dibujar gráfico las ventas mensuales,True,lineal
+Ventas por vendedor incluyendo gráfica,True,barras
+Solicito reporte de desempeño,False,ninguno
+genera una gráfica de los tipos de comprobante por favor,True,barras
+Solicito haz un gráfico de los productos por categoría,True,barras
+Dame distribución de clientes por grupo de edad,True,histograma
+Sería posible crea un plot de los ventas por temporada,1,barras
+Requiero ventas mensuales del último año y muestra histograma,True,histograma
+Sería posible genera una gráfica de los compras por proveedor,True,barras
+Muestrame los estados de venta y presenta un gráfico,True,barras
+Visualizar la correlación precio-ventas,1,dispersion
+Dame obten los ventas por hora del día y visualizalos en un gráfico,True,barras
+Me gustaría crea plot los métodos de pago,1,barras
+Obtener obten los ventas por vendedor y visualizalos en un gráfico,True,barras
+muestra gráfico la evolución de precios,1,circular
+PRESENTA EN GRÁFICO LA DISTRIBUCIÓN DE CLIENTES,True,histograma
+precios promedio por marca visualizado en línea,True,lineal
+Me gustaría visualizar las ventas mensuales,1,lineal
+crea plot las ventas por hora,1,lineal
+¿CUÁNTOS CLIENTES SE REGISTRARON ESTE MES?,False,ninguno
+Quiero dibujar gráfico las ventas por hora,True,barras
+tipos de comprobante y haz un gráfico de pastel,1,circular
+Tendencia de stock de un producto específico por favor,False,ninguno
+Mostrar crea plot la distribución de clientes,1,histograma
+Necesito mostrame los ventas mensuales del último año y grafica los resultados,1,lineal
+visualizar la distribución de clientes,1,lineal
+Solicito descuentos aplicados y graficalo en barras,1,barras
+Requiero presentar en gráfico la evolución de precios,True,lineal
+stock por categoría y graficalo en barras?,1,barras
+Necesito presentar en gráfico los métodos de pago,True,barras
+Obtener muestra en un chart los productos por categoría,1,barras
+Mostrar crea plot los productos más vendidos,1,barras
+crear plot las ventas mensuales,1,lineal
+Lista los clientes por grupo de edad y muestra un gráfico,True,barras
+Quiero graficar las ventas por hora,1,barras
+Requiero productos por categoría con gráfico de dispersión,True,dispersion
+Consulta: presenta en gráfico la correlación precio-ventas,True,dispersion
+Dame visualizar la participación de mercado,1,circular
+Me gustaría genera chart la frecuencia de compras,1,histograma
+Necesito ventas del día de hoy,True,barras
+STOCK POR CATEGORÍA VISUALIZADO EN LÍNEA,True,lineal
+Obtener stock por categoría y graficalo en barras,1,barras
+Necesito ventas por vendedor y muestra un gráfico de barras,True,barras
+Requiero presentar en gráfico el stock por categoría,True,barras
+Mostrar compras realizadas al proveedor id 5,False,ninguno
+presenta en gráfico los métodos de pago más utilizados,True,barras
+Plotear la frecuencia de compras,1,histograma
+Graficar el stock por categoría,1,barras
+Quiero consulta los descuentos aplicados y genera un chart,1,barras
+Necesito haz gráfica la frecuencia de compras,True,histograma
+Me gustaría haz un gráfico de los compras por proveedor,True,barras
+crea un plot de los ventas por vendedor,1,dispersion
+Solicito mostrar gráfico el stock por categoría,True,barras
+GENERA CHART LA PARTICIPACIÓN DE MERCADO,1,circular
+Podrías transacciones por estado con gráfico circular,True,circular
+Sería posible plotear el stock por categoría,1,barras
+generar chart las ventas por hora,1,barras
+Sería posible dibuja gráfico la frecuencia de compras,True,histograma
+Mostrar crea un plot de los productos con mayor margen,1,barras
+Quiero primeros 5 clientes ordenados alfabéticamente con gráfico de dispersión,True,dispersion
+crea plot el stock por categoría,1,barras
+Dame dibujar gráfico las ventas mensuales,True,lineal
+Obtener crea un plot de los ventas por hora del día,1,barras
+Quiero plotear la frecuencia de compras,1,histograma
+dibuja un gráfico con los compras por proveedor,1,barras
+descuentos aplicados y muestra un gráfico de barras,1,barras
+Sería posible crea plot la evolución de precios,1,lineal
+indicadores clave,True,barras
+Consulta: mostrame los precios promedio por marca y grafica los resultados,1,barras
+Sería posible busca los ventas por temporada y crea una gráfica,True,barras
+Consulta: muestra gráfico las ventas por hora,True,barras
+obten los estados de venta y visualizalos en un gráfico,1,circular
+Obtener presenta en gráfico los precios promedio por marca,True,barras
+Quiero consulta los estados de venta y genera un chart,1,barras
+Dame obten los estados de venta y visualizalos en un gráfico,True,barras
+Quiero visualizar la participación de mercado,1,circular
+Generar chart el stock por categoría,1,barras
+lista los ventas mensuales del último año y muestra un gráfico,1,barras
+Obtener muestrame los descuentos aplicados y presenta un gráfico,True,barras
+Dibuja un gráfico con los compras por proveedor,True,barras
+Obtener muestra en un chart los transacciones por estado,1,barras
+Quiero primeros 5 clientes ordenados alfabéticamente agregando chart,1,barras
+Sería posible descuentos aplicados agregando chart,1,barras
+MUESTRAME LOS ESTADOS DE VENTA Y PRESENTA UN GRÁFICO,True,barras
+DAME LOS TIPOS DE COMPROBANTE Y GRAFICALOS,1,barras
+Mostrar genera chart las ventas mensuales,1,lineal
+crea un plot de los ventas por temporada,1,dispersion
+clientes registrados por mes y muestra histograma?,True,histograma
+visualiza el stock por categoría,1,lineal
+productos que necesitan reposición,False,ninguno
+Solicito muestra gráfico las ventas mensuales,True,lineal
+Solicito productos sin stock con gráfico,True,barras
+Sería posible top 10 productos más vendidos agregando chart,1,barras
+lista los primeros 5 clientes ordenados alfabéticamente y muestra un gráfico,1,barras
+Requiero crea plot los métodos de pago,1,barras
+transacciones por estado y muestra un gráfico de barras,1,barras
+Requiero variación de precios de productos,False,ninguno
+Dame ventas por temporada con gráfico de dispersión,True,dispersion
+Quiero muestrame los ventas mensuales del último año y presenta un gráfico,True,lineal
+Solicito análisis de clientes,False,ninguno
+Podrías plotear el stock por categoría,1,barras
+Visualizar las ventas mensuales,1,lineal
+Variación de precios de productos,1,lineal
+Consulta los precios promedio por marca y genera un chart,1,barras
+descuentos aplicados y muestra gráfico,1,circular
+TOP 10 PRODUCTOS MÁS VENDIDOS Y GRÁFICO,True,barras
+clientes por grupo de edad y muestra histograma,1,histograma
+Dame hacer gráfica la evolución de precios,True,lineal
+genera una gráfica de los productos por categoría?,True,barras
+Requiero tipos de comprobante y muestra gráfico,True,barras
+Me gustaría ventas por hora del día y gráfico,True,barras
+Solicito lista los clientes por grupo de edad y muestra un gráfico,True,barras
+PLOTEA LOS MÉTODOS DE PAGO,1,barras
+Resultados del trimestre,1,lineal
+presenta en gráfico los compras por proveedor,1,circular
+presentar en gráfico la frecuencia de compras,1,barras
+Quiero genera chart la correlación precio-ventas,1,dispersion
+Comparación precio costo vs precio venta,False,ninguno
+Eliminar cliente con DNI 87654321,0,ninguno
+Solicito lista de todos los proveedores,False,ninguno
+Sería posible extrae los transacciones por estado y haz un plot,1,barras
+genera chart el stock por categoría,1,barras
+Reporte ejecutivo,0,ninguno
+Necesito haz un gráfico de los ventas mensuales del último año,True,lineal
+hacer gráfica las ventas mensuales,1,circular
+Necesito obten los stock por categoría y visualizalos en un gráfico,True,barras
+Podrías haz un gráfico de los transacciones por estado,True,barras
+Podrías presenta en gráfico los métodos de pago más utilizados,True,barras
+Dame extrae los ventas mensuales del último año y haz un plot,1,lineal
+productos sin stock en gráfico lineal,True,lineal
+Requiero descuentos aplicados en gráfico lineal,True,lineal
+Solicito plotear la distribución de clientes,1,histograma
+Podrías dibuja un gráfico con los compras por proveedor,True,barras
+hacer gráfica la evolución de precios por favor,True,lineal
+visualiza en un gráfico los precios promedio por marca por favor,True,barras
+Productos sin stock y haz un gráfico de pastel,True,circular
+dibuja un gráfico con los ventas por hora del día,1,barras
+Ventas por hora del día,False,ninguno
+descuentos aplicados y gráfico por favor,True,barras
+presenta en gráfico los productos más vendidos,1,barras
+Obtener descuentos aplicados y haz un gráfico de pastel,True,circular
+Necesito dame los ventas mensuales del último año y graficalos,1,lineal
+Stock por categoría y muestra un gráfico de barras,True,barras
+graficar las ventas por hora,1,barras
+haz gráfica los productos más vendidos,1,circular
+grafica los primeros 5 clientes ordenados alfabéticamente,1,barras
+Quiero crear plot el stock por categoría,1,barras
+Requiero tipos de comprobante y haz un gráfico de pastel,True,circular
+genera una gráfica de los descuentos aplicados,1,histograma
+Consulta: plotea las ventas por hora,1,barras
+Dame plotear los métodos de pago,1,barras
+Obtener tipos de comprobante y gráfico,True,barras
+Graficar los métodos de pago,1,barras
+Necesito hacer gráfica las ventas mensuales,True,lineal
+Ventas por método de pago,False,ninguno
+Obtener mostrar gráfico la frecuencia de compras,True,histograma
+Solicito transacciones por estado con gráfico,True,barras
+Obtener métodos de pago más utilizados agregando chart,1,barras
+Podrías muestra en un chart los ventas mensuales del último año,1,lineal
+descuentos aplicados en gráfico lineal,1,lineal
+Consulta: visualiza en un gráfico los stock por categoría,True,barras
+Dame haz gráfica las ventas por hora,True,barras
+Mostrar ventas por temporada en gráfico lineal,True,lineal
+Obtener genera chart el stock por categoría,1,barras
+Requiero transacciones pendientes de confirmación,False,ninguno
+Necesito productos sin stock y muestra un gráfico de barras,True,barras
+Me gustaría actualizar teléfono del cliente con id 15,False,ninguno
+Obtener generar chart la frecuencia de compras,1,histograma
+Consulta: Buscar productos por color rojo,False,ninguno
+ventas mensuales del último año con gráfico de dispersión,True,dispersion
+crear plot las ventas por hora,1,lineal
+mostrar gráfico el stock por categoría,1,circular
+Consulta: crea un plot de los ventas por temporada,1,barras
+Consulta: genera una gráfica de los precios promedio por marca,True,barras
+Necesito lista los ventas mensuales del último año y muestra un gráfico,True,lineal
+Mostrar gráfico los métodos de pago,True,barras
+generar chart la evolución de precios por favor,1,lineal
+Podrías ventas mensuales del último año y graficalo en barras,1,barras
+Consulta: grafica los ventas por temporada,1,barras
+visualiza la correlación precio-ventas,1,lineal
+Requiero tipos de comprobante con gráfico circular,True,circular
+visualiza las ventas mensuales,1,lineal
+muestra gráfico la correlación precio-ventas por favor,True,dispersion
+lista los clientes por grupo de edad y muestra un gráfico,1,barras
+Consulta: muestra gráfico el stock por categoría,True,barras
+ventas por hora del día con gráfico,1,barras
+clientes registrados por mes en gráfico lineal,1,lineal
+Ventas por vendedor incluyendo gráfica,True,barras
+Mostrar genera una gráfica de los compras por proveedor,True,barras
+muestra gráfico la participación de mercado,True,circular
+precios promedio por marca visualizado en línea,1,lineal
+Podrías graficar las ventas mensuales,1,lineal
+Necesito grafica los ventas por vendedor,1,barras
+genera una gráfica de los clientes registrados por mes,1,histograma
+visualizar la frecuencia de compras,1,lineal
+haz un gráfico de los ventas por temporada?,True,barras
+Requiero estadísticas de productos,True,barras
+Mostrar presenta en gráfico los ventas por vendedor,True,barras
+Sería posible mostrame los descuentos aplicados y grafica los resultados,1,barras
+genera una gráfica de los ventas por vendedor,1,histograma
+visualiza en un gráfico los clientes por grupo de edad,1,circular
+Dispersión de precios por categoría,1,dispersion
+stock por categoría y graficalo en barras,1,barras
+Requiero top 10 productos más vendidos y gráfico,True,barras
+Sería posible muestra en un chart los clientes registrados por mes,1,barras
+Me gustaría buscar cliente por nombre juan pérez,False,ninguno
+visualiza las ventas por hora por favor,True,barras
+visualiza las ventas por hora,1,lineal
+transacciones por estado y muestra un gráfico de barras?,True,barras
+Requiero ventas por vendedor con gráfico de dispersión,True,dispersion
+generar chart las ventas mensuales?,1,lineal
+Obtener productos por categoría en gráfico lineal,True,lineal
+busca los precios promedio por marca y crea una gráfica?,True,barras
+Dame clientes registrados por mes y gráfico,True,barras
+GRAFICAR LA DISTRIBUCIÓN DE CLIENTES,1,histograma
+productos sin stock y muestra gráfico,1,circular
+Me gustaría precios promedio por marca en gráfico lineal,True,lineal
+Lista los ventas por hora del día y muestra un gráfico,True,barras
+Sería posible hacer gráfica la distribución de clientes,True,histograma
+Ventas mensuales del último año,1,barras
+dibuja un gráfico con los stock por categoría,True,barras
+Solicito estados de venta y muestra gráfico,True,barras
+Consulta: haz un gráfico de los compras por proveedor,True,barras
+mostrame los stock por categoría y grafica los resultados,1,barras
+VISUALIZA EN UN GRÁFICO LOS PRODUCTOS POR CATEGORÍA,True,barras
+plotea la participación de mercado,1,dispersion
+Productos por categoría con gráfico circular,True,circular
+mostrame los ventas mensuales del último año y grafica los resultados,1,barras
+genera chart la frecuencia de compras por favor,1,histograma
+Genera chart las ventas por hora,1,barras
+Reporte de desempeño,1,barras
+productos por categoría y graficalo en barras,1,barras
+Compras por proveedor por favor,False,ninguno
+Análisis de clientes,0,ninguno
+ventas por vendedor y haz un gráfico de pastel,1,circular
+Muestra gráfico los métodos de pago,True,barras
+Mostrar haz un gráfico de los productos con mayor margen,True,barras
+extrae los ventas por hora del día y haz un plot,1,barras
+Dame transacciones por estado con gráfico,True,barras
+Quiero obten los ventas por hora del día y visualizalos en un gráfico,True,barras
+dibuja un gráfico con los transacciones por estado por favor,True,barras
+Requiero clientes por grupo de edad y muestra histograma,True,histograma
+Obtener productos por categoría en gráfico lineal,True,lineal
+Sería posible dibuja gráfico las ventas por hora,True,barras
+Requiero plotear las ventas mensuales,1,lineal
+Me gustaría presentar en gráfico la correlación precio-ventas,True,dispersion
+productos con mayor margen con gráfico de dispersión,1,dispersion
+Requiero muestra en un chart los transacciones por estado,1,barras
+Podrías primeros 5 clientes ordenados alfabéticamente y gráfico,True,barras
+Dame plotear los métodos de pago,1,barras
+DIBUJA UN GRÁFICO CON LOS PRODUCTOS POR CATEGORÍA,True,barras
+Obtener compras por proveedor y muestra gráfico,True,barras
+visualizar los métodos de pago,1,lineal
+Podrías generar chart la correlación precio-ventas,1,dispersion
+Me gustaría productos con mayor margen con gráfico circular,True,circular
+Consulta: productos sin stock incluyendo gráfica,True,barras
+Mostrar genera una gráfica de los productos con mayor margen,True,barras
+Consulta: dibujar gráfico el stock por categoría,True,barras
+extrae los compras por proveedor y haz un plot?,1,barras
+presenta en gráfico los métodos de pago,1,barras
+Me gustaría plotea la frecuencia de compras,1,histograma
+Mostrar consulta los productos por categoría y genera un chart,1,barras
+Stock por categoría visualizado en línea,True,lineal
+Dame clientes por grupo de edad y muestra histograma,True,histograma
+DAME LOS MÉTODOS DE PAGO MÁS UTILIZADOS Y GRAFICALOS,1,barras
+Mostrar dibuja un gráfico con los clientes por grupo de edad,True,barras
+Sería posible crea plot las ventas por hora,1,barras
+Necesito obten los estados de venta y visualizalos en un gráfico,True,barras
+movimientos de inventario y graficalo en barras,1,barras
+Sería posible muestra en un chart los productos por categoría,1,barras
+Dame dame los ventas mensuales del último año y graficalos,1,lineal
+crear plot las ventas por hora,1,barras
+Solicito consulta los productos por categoría y genera un chart,1,barras
+dame los tipos de comprobante y graficalos,1,barras
+grafica la frecuencia de compras,1,histograma
+BUSCA LOS VENTAS POR TEMPORADA Y CREA UNA GRÁFICA,True,barras
+obten los stock por categoría y visualizalos en un gráfico,1,circular
+crea un plot de los estados de venta por favor,1,barras
+Dame primeros 5 clientes ordenados alfabéticamente y haz un gráfico de pastel,True,circular
+dibuja un gráfico con los métodos de pago más utilizados,1,barras
+Distribución de edades de clientes,1,histograma
+Podrías clientes por grupo de edad visualizado en línea,True,lineal
+MUESTRAME LOS PRECIOS PROMEDIO POR MARCA Y PRESENTA UN GRÁFICO,True,barras
+Solicito crea plot la frecuencia de compras,1,histograma
+grafica los compras por proveedor,1,barras
+Dibuja un gráfico con los primeros 5 clientes ordenados alfabéticamente,True,barras
+Consulta: Dashboard de ventas,True,barras
+Quiero dibuja un gráfico con los stock por categoría,True,barras
+Mostrar haz gráfica los métodos de pago,True,barras
+Dame mostrame los top 10 productos más vendidos y grafica los resultados,1,barras
+Productos sin stock actual,0,ninguno
+Quiero lista los ventas mensuales del último año y muestra un gráfico,True,lineal
+Me gustaría transacciones por estado con gráfico,True,barras
+Me gustaría movimientos de inventario incluyendo gráfica,True,barras
+Podrías muestra en un chart los ventas por vendedor,1,barras
+PROPORCIÓN DE TIPOS DE COMPROBANTE,False,ninguno
+Solicito descuentos aplicados y haz un gráfico de pastel,True,circular
+grafica los métodos de pago más utilizados,1,barras
+genera chart la distribución de clientes,1,barras
+Necesito descuentos aplicados y muestra gráfico,True,barras
+Requiero dibuja gráfico el stock por categoría,True,barras
+Requiero distribución de días entre compras,True,histograma
+¿Cuántos clientes se registraron este mes,True,barras
+Actualizar teléfono del cliente con ID 15 por favor,False,ninguno
+Me gustaría métodos de pago más utilizados agregando chart,1,barras
+Quiero movimientos de inventario y graficalo en barras,1,barras
+Podrías hacer gráfica la participación de mercado,True,circular
+movimientos de inventario con gráfico circular,True,circular
+visualiza en un gráfico los productos sin stock,True,barras
+genera chart los métodos de pago,1,barras
+Solicito muestrame los compras por proveedor y presenta un gráfico,True,barras
+Me gustaría genera una gráfica de los descuentos aplicados,True,barras
+muestrame los movimientos de inventario y presenta un gráfico,1,circular
+obten los clientes registrados por mes y visualizalos en un gráfico,1,circular
+Clientes que tienen email gmail.com,0,ninguno
+Participación de marcas en ventas,1,circular
+ventas por hora del día con gráfico por favor,True,barras
+extrae los descuentos aplicados y haz un plot,1,lineal
+GRAFICA LOS STOCK POR CATEGORÍA,1,barras
+grafica la distribución de clientes,1,barras
+Obtener primeros 5 clientes ordenados alfabéticamente y gráfico,True,barras
+Me gustaría precios promedio por marca agregando chart,1,barras
+Requiero muestrame los transacciones por estado y presenta un gráfico,True,barras
+mostrame los top 10 productos más vendidos y grafica los resultados,1,barras
+stock por categoría con gráfico,True,barras
+Quiero movimientos de inventario y haz un gráfico de pastel,True,circular
+Podrías historial de movimientos de hoy,True,barras
+mostrar gráfico la evolución de precios,1,circular
+Requiero ventas pendientes de pago,False,ninguno
+consulta los descuentos aplicados y genera un chart,1,barras
+Solicito ventas por cliente con id 25,True,barras
+muestra en un chart los productos por categoría,1,lineal
+muestra gráfico la frecuencia de compras,1,circular
+Necesito participación de marcas en ventas,False,ninguno
+top 10 productos más vendidos con gráfico circular,1,circular
+primeros 5 clientes ordenados alfabéticamente y muestra un gráfico de barras,1,barras
+Sería posible busca los métodos de pago más utilizados y crea una gráfica,True,barras
+Dame descuentos aplicados y gráfico,True,barras
+Obtener haz un gráfico de los ventas por temporada,True,barras
+Podrías transacciones por estado con gráfico circular,True,circular
+Dame análisis de clientes,False,ninguno
+Métricas de rendimiento?,False,ninguno
+MUESTRAME LOS MOVIMIENTOS DE INVENTARIO Y PRESENTA UN GRÁFICO,True,barras
+mostrame los transacciones por estado y grafica los resultados,1,barras
+muestra gráfico las ventas por hora,1,circular
+Composición del inventario por categoría,1,circular
+movimientos de inventario con gráfico circular,1,circular
+Dame haz un gráfico de los top 10 productos más vendidos,True,barras
+Obtener movimientos de inventario visualizado en línea,True,lineal
+Sería posible ventas por vendedor,True,barras
+Quiero visualiza las ventas mensuales,True,lineal
+Comparación precio costo vs precio venta,1,dispersion
+Podrías compras por proveedor,False,ninguno
+Dame consulta los estados de venta y genera un chart,1,barras
+Dame crea plot los productos más vendidos,1,barras
+descuentos aplicados y muestra gráfico?,True,barras
+visualizar la correlación precio-ventas,1,dispersion
+Mostrar comportamiento de ventas por temporada,False,ninguno
+muestra gráfico el stock por categoría?,True,barras
+dame los ventas por hora del día y graficalos,1,barras
+Quiero movimientos de inventario con gráfico de dispersión,True,dispersion
+haz un gráfico de los productos con mayor margen,1,barras
+Solicito visualiza en un gráfico los clientes por grupo de edad,True,barras
+extrae los compras por proveedor y haz un plot?,1,barras
+Quiero busca los clientes por grupo de edad y crea una gráfica,True,barras
+movimientos de inventario y muestra histograma,1,histograma
+extrae los primeros 5 clientes ordenados alfabéticamente y haz un plot por favor,1,barras
+Necesito dame los productos por categoría y graficalos,1,barras
+generar chart la frecuencia de compras,1,barras
+Obtener grafica los ventas por vendedor,1,barras
+Quiero dibujar gráfico las ventas por hora,True,barras
+clientes registrados por mes y muestra histograma?,True,histograma
+Solicito dibuja un gráfico con los productos por categoría,True,barras
+Mostrar graficar el stock por categoría,1,barras
+Quiero haz un gráfico de los métodos de pago más utilizados,True,barras
+Obtener consulta los stock por categoría y genera un chart,1,barras
+Sería posible métodos de pago más utilizados agregando chart,1,barras
+visualiza en un gráfico los precios promedio por marca,1,circular
+consulta los productos sin stock y genera un chart,1,barras
+crea un plot de los ventas por hora del día,1,dispersion
+ventas por vendedor agregando chart,1,barras
+Requiero genera chart las ventas por hora,1,barras
+extrae los ventas por hora del día y haz un plot,1,lineal
+Dashboard de ventas,0,ninguno
+dame los métodos de pago más utilizados y graficalos,1,barras
+MOSTRAME LOS TOP 10 PRODUCTOS MÁS VENDIDOS Y GRAFICA LOS RESULTADOS,1,barras
+Sería posible clientes registrados por mes y muestra histograma,True,histograma
+Frecuencia de montos de venta,True,histograma
+Podrías productos sin stock y haz un gráfico de pastel,True,circular
+Consulta: visualizar la evolución de precios,1,lineal
+productos sin stock incluyendo gráfica,1,lineal
+genera una gráfica de los productos con mayor margen,1,histograma
+Me gustaría muestra gráfico las ventas por hora,True,barras
+Quiero ventas por vendedor y haz un gráfico de pastel,True,circular
+genera una gráfica de los precios promedio por marca,1,histograma
+grafica los métodos de pago más utilizados,1,barras
+Productos con stock menor al mínimo,False,ninguno
+Solicito historial de movimientos de hoy,True,barras
+Necesito ventas por vendedor agregando chart,1,barras
+Reporte de inventario,1,barras
+Solicito plotea las ventas por hora,1,barras
+Dame muestra en un chart los precios promedio por marca,1,barras
+presenta en gráfico la frecuencia de compras por favor,True,histograma
+Podrías lista los descuentos aplicados y muestra un gráfico,True,barras
+ventas por hora del día y gráfico,1,barras
+compras por proveedor y haz un gráfico de pastel,1,circular
+descuentos aplicados y graficalo en barras,1,barras
+dibuja gráfico la evolución de precios,1,lineal
+Mostrar visualiza en un gráfico los transacciones por estado,True,barras
+Grafica los métodos de pago,1,barras
+productos por categoría visualizado en línea,True,lineal
+Podrías stock por categoría y muestra gráfico,True,barras
+haz un gráfico de los transacciones por estado,1,barras
+Necesito haz un gráfico de los compras por proveedor,True,barras
+top 10 productos más vendidos visualizado en línea?,True,lineal
+Necesito productos sin stock incluyendo gráfica,True,barras
+Me gustaría dibujar gráfico la correlación precio-ventas,True,dispersion
+descuentos aplicados y graficalo en barras?,1,barras
+mostrar gráfico la correlación precio-ventas?,True,dispersion
+muestra en un chart los ventas por temporada,1,lineal
+dibujar gráfico los métodos de pago,1,lineal
+muestrame los ventas mensuales del último año y presenta un gráfico,1,circular
+Mostrar obten los clientes por grupo de edad y visualizalos en un gráfico,True,barras
+Podrías movimientos de inventario incluyendo gráfica,True,barras
+Solicito haz un gráfico de los ventas por hora del día,True,barras
+crea un plot de los clientes registrados por mes?,1,barras
+Quiero genera chart los métodos de pago,1,barras
+productos por categoría y muestra un gráfico de barras?,True,barras
+Dame haz un gráfico de los ventas por temporada,True,barras
+Podrías muestrame los transacciones por estado y presenta un gráfico,True,barras
+Obtener obten los ventas mensuales del último año y visualizalos en un gráfico,True,lineal
+Quiero ventas por hora del día agregando chart,1,barras
+Necesito plotear el stock por categoría,1,barras
+DIBUJAR GRÁFICO LAS VENTAS POR HORA,True,barras
+crea plot la correlación precio-ventas,1,lineal
+productos con mayor margen con gráfico circular,1,circular
+Obtener movimientos de inventario con gráfico de dispersión,True,dispersion
+top 10 productos más vendidos en gráfico lineal,1,lineal
+compras por proveedor y graficalo en barras por favor,1,barras
+Necesito grafica los tipos de comprobante,1,barras
+visualiza en un gráfico los ventas por vendedor,1,circular
+dibujar gráfico la participación de mercado,1,lineal
+Dame visualiza en un gráfico los top 10 productos más vendidos,True,barras
+movimientos de inventario y haz un gráfico de pastel,1,circular
+Sería posible plotea la evolución de precios,1,lineal
+Dame plotea la evolución de precios,1,lineal
+movimientos de inventario y muestra histograma,True,histograma
+haz un gráfico de los ventas mensuales del último año,1,barras
+Mostrar productos con mayor margen con gráfico circular,True,circular
+busca los clientes registrados por mes y crea una gráfica,1,lineal
+¿Cuántos clientes se registraron este mes,False,ninguno
+Obtener dame los métodos de pago más utilizados y graficalos,1,barras
+dibuja gráfico la correlación precio-ventas,1,lineal
+Necesito genera chart los productos más vendidos,1,barras
+Podrías genera una gráfica de los primeros 5 clientes ordenados alfabéticamente,True,barras
+Dame métodos de pago más utilizados y gráfico,True,barras
+estados de venta con gráfico de dispersión por favor,True,dispersion
+Me gustaría evolución de ventas en los últimos 6 meses,False,ninguno
+mostrame los productos por categoría y grafica los resultados,1,barras
+plotear la evolución de precios,1,dispersion
+Reporte de desempeño?,True,barras
+Dame mostrame los productos por categoría y grafica los resultados,1,barras
+Mostrar top 10 productos más vendidos y graficalo en barras,1,barras
+grafica los productos con mayor margen,1,barras
+Solicito crear plot el stock por categoría,1,barras
+VISUALIZAR LOS MÉTODOS DE PAGO,1,barras
+crea un plot de los clientes registrados por mes,1,barras
+Requiero crea plot las ventas mensuales,1,lineal
+PLOTEA LOS MÉTODOS DE PAGO,1,barras
+Ventas canceladas en la última semana?,True,barras
+GENERAR CHART LA DISTRIBUCIÓN DE CLIENTES,1,histograma
+Podrías compras por proveedor y muestra un gráfico de barras,True,barras
+mostrame los transacciones por estado y grafica los resultados,1,barras
+Dame genera chart la distribución de clientes,1,histograma
+Sería posible grafica los productos más vendidos,1,barras
+Progresión de ventas acumuladas,1,lineal
+Dame stock por categoría en gráfico lineal,True,lineal
+haz gráfica los métodos de pago,1,circular
+crea plot los métodos de pago,1,lineal
+Consulta: visualiza la frecuencia de compras,True,histograma
+Ventas por hora del día agregando chart,1,barras
+muestra en un chart los precios promedio por marca,1,lineal
+Me gustaría participación de marcas en ventas,False,ninguno
+movimientos de inventario y gráfico,True,barras
+genera una gráfica de los productos por categoría,True,barras
+Análisis de tendencias?,False,ninguno
+Sería posible tipos de comprobante con gráfico de dispersión,True,dispersion
+Me gustaría genera una gráfica de los precios promedio por marca,True,barras
+dame los stock por categoría y graficalos,1,barras
+Solicito ventas por vendedor y muestra gráfico,True,barras
+Obtener graficar la correlación precio-ventas,1,dispersion
+Podrías muestra en un chart los precios promedio por marca,1,barras
+productos sin stock con gráfico,1,barras
+Solicito presenta en gráfico los ventas por hora del día,True,barras
+descuentos aplicados y graficalo en barras,1,barras
+dibuja un gráfico con los stock por categoría,1,barras
+Quiero distribución de precios de productos,False,ninguno
+crear plot el stock por categoría,1,lineal
+Podrías métodos de pago más utilizados y gráfico,True,barras
+dibuja gráfico la participación de mercado?,True,circular
+busca los estados de venta y crea una gráfica?,True,barras
+Consulta: productos sin stock con gráfico,True,barras
+PAGOS REALIZADOS CON TARJETA DE CRÉDITO,True,barras
+tipos de comprobante y gráfico,True,barras
+Quiero presenta en gráfico los precios promedio por marca,True,barras
+Quiero lista los tipos de comprobante y muestra un gráfico,True,barras
+Podrías tipos de comprobante y muestra histograma,True,histograma
+mostrame los tipos de comprobante y grafica los resultados,1,barras
+dibuja gráfico la frecuencia de compras,1,lineal
+productos sin stock con gráfico,True,barras
+Consulta: presenta en gráfico los ventas por hora del día,True,barras
+movimientos de inventario visualizado en línea,1,lineal
+Dame visualiza la correlación precio-ventas,True,dispersion
+Dame compras por proveedor,True,barras
+crea plot la frecuencia de compras,1,lineal
+Me gustaría generar chart el stock por categoría,1,barras
+Movimientos de inventario con gráfico,True,barras
+Necesito clientes que tienen email gmail.com,False,ninguno
+generar chart los métodos de pago?,1,barras
+Solicito crear plot las ventas mensuales,1,lineal
+ventas por vendedor y muestra gráfico,True,barras
+movimientos de inventario y graficalo en barras por favor,1,barras
+plotea las ventas mensuales,1,dispersion
+Solicito grafica los compras por proveedor,1,barras
+Me gustaría ventas mensuales del último año y muestra histograma,True,histograma
+visualiza en un gráfico los ventas mensuales del último año,True,lineal
+DAME LOS VENTAS POR HORA DEL DÍA Y GRAFICALOS,1,barras
+Consulta: haz gráfica los métodos de pago,True,barras
+Pagos realizados con tarjeta de crédito,0,ninguno
+Necesito dame los clientes registrados por mes y graficalos,1,barras
+Sería posible precios promedio por marca incluyendo gráfica,True,barras
+consulta los productos por categoría y genera un chart,1,barras
+Necesito visualizar los métodos de pago,1,barras
+Necesito descuentos aplicados con gráfico,True,barras
+Resumen de ventas del mes actual,1,barras
+Dame haz un gráfico de los precios promedio por marca,True,barras
+Mostrar productos sin stock con gráfico circular,True,circular
+Requiero dibuja un gráfico con los clientes por grupo de edad,True,barras
+Sería posible crea un plot de los productos con mayor margen,1,barras
+Consulta: presenta en gráfico las ventas por hora,True,barras
+Mostrar presentar en gráfico los métodos de pago,True,barras
+precios promedio por marca en gráfico lineal?,True,lineal
+Mostrar busca los top 10 productos más vendidos y crea una gráfica,True,barras
+Eliminar cliente con dni 87654321,False,ninguno
+crear plot la distribución de clientes,1,lineal
+VISUALIZA EN UN GRÁFICO LOS PRODUCTOS CON MAYOR MARGEN,True,barras
+Mostrar visualiza el stock por categoría,True,barras
+Sería posible distribución de ventas por categoría,True,histograma
+generar chart la participación de mercado,1,barras
+presentar en gráfico el stock por categoría,True,barras
+precios promedio por marca y graficalo en barras por favor,1,barras
+Podrías tipos de comprobante incluyendo gráfica,True,barras
+Quiero descuentos aplicados y haz un gráfico de pastel,True,circular
+Sería posible mostrar productos con precio mayor a 100 soles,False,ninguno
+presentar en gráfico la evolución de precios,True,lineal
+Lista todos los clientes activos,0,ninguno
+muestra en un chart los productos con mayor margen por favor,1,barras
+GENERA UNA GRÁFICA DE LOS PRODUCTOS CON MAYOR MARGEN,True,barras
+Primeros 5 clientes ordenados alfabéticamente y haz un gráfico de pastel,True,circular
+visualiza en un gráfico los transacciones por estado?,True,barras
+Consulta: clientes por grupo de edad y muestra histograma,True,histograma
+presenta en gráfico la correlación precio-ventas,True,dispersion
+Podrías visualiza los productos más vendidos,True,barras
+Podrías evolución del inventario total,False,ninguno
+dibuja gráfico los productos más vendidos?,True,barras
+Mostrar top 10 productos más vendidos y graficalo en barras,1,barras
+dibuja un gráfico con los productos con mayor margen,True,barras
+Mostrar proveedores con ruc que empieza con 20,False,ninguno
+Consulta: visualizar la participación de mercado,1,circular
+Requiero generar chart la evolución de precios,1,lineal
+Obtener dibuja gráfico la participación de mercado,True,circular
+Obtener movimientos de inventario del producto id 10,True,barras
+dibuja un gráfico con los ventas por hora del día?,True,barras
+Solicito busca los top 10 productos más vendidos y crea una gráfica,True,barras
+Solicito dibuja un gráfico con los métodos de pago más utilizados,True,barras
+Mostrar precios promedio por marca agregando chart,1,barras
+Me gustaría muestra en un chart los ventas por temporada,1,barras
+Necesito crea un plot de los productos con mayor margen,1,barras
+Dame mostrar gráfico los productos más vendidos,True,barras
+muestrame los productos por categoría y presenta un gráfico,1,circular
+Requiero dame los productos con mayor margen y graficalos,1,barras
+Necesito clientes registrados por mes en gráfico lineal,True,lineal
+Sería posible clientes por grupo de edad y muestra gráfico,True,barras
+Mostrar grafica la correlación precio-ventas,1,dispersion
+Podrías visualiza en un gráfico los ventas por vendedor,True,barras
+Distribución de clientes por grupo de edad?,False,ninguno
+Clientes registrados por mes y graficalo en barras,1,barras
+extrae los primeros 5 clientes ordenados alfabéticamente y haz un plot,1,lineal
+genera una gráfica de los primeros 5 clientes ordenados alfabéticamente,1,histograma
+busca los precios promedio por marca y crea una gráfica?,True,barras
+Mostrar crear plot la frecuencia de compras,1,histograma
+Obtener crear plot los métodos de pago,1,barras
+Solicito descuentos aplicados en gráfico lineal,True,lineal
+visualiza los métodos de pago,True,barras
+Obtener top 10 productos más vendidos y muestra histograma,True,histograma
+Quiero presenta en gráfico el stock por categoría,True,barras
+muestra en un chart los productos por categoría,1,barras
+Productos más vendidos por categoría,1,barras
+Solicito compras por proveedor visualizado en línea,True,lineal
+muestra gráfico la participación de mercado,1,circular
+crea plot la evolución de precios,1,lineal
+Dame lista todos los clientes activos,False,ninguno
+Necesito graficar la evolución de precios,1,lineal
+Podrías productos con mayor margen con gráfico de dispersión,True,dispersion
+MUESTRA GRÁFICO LAS VENTAS MENSUALES,True,lineal
+Mostrar ventas mensuales del último año con gráfico de dispersión,True,dispersion
+Dame productos por categoría y muestra un gráfico de barras,True,barras
+Clientes inactivos en el sistema,0,ninguno
+obten los tipos de comprobante y visualizalos en un gráfico?,True,barras
+Mostrar productos con stock menor al mínimo,False,ninguno
+Requiero visualiza en un gráfico los productos sin stock,True,barras
+plotea el stock por categoría por favor,1,barras
+Mostrar presenta en gráfico la participación de mercado,True,circular
+Requiero haz un gráfico de los métodos de pago más utilizados,True,barras
+stock por categoría con gráfico,1,barras
+genera chart la evolución de precios,1,lineal
+Obtener consulta los transacciones por estado y genera un chart,1,barras
+busca los ventas por temporada y crea una gráfica,1,lineal
+Podrías dibuja gráfico la evolución de precios,True,lineal
+top 10 productos más vendidos y gráfico,True,barras
+presenta en gráfico los tipos de comprobante,True,barras
+haz un gráfico de los top 10 productos más vendidos,1,barras
+tipos de comprobante y gráfico,1,barras
+haz un gráfico de los transacciones por estado,True,barras
+Necesito visualiza los productos más vendidos,True,barras
+dibuja gráfico los métodos de pago,1,lineal
+Total vendido este mes,False,ninguno
+Mostrar muestrame los ventas por hora del día y presenta un gráfico,True,barras
+Top 10 productos más vendidos en gráfico lineal,True,lineal
+Resumen de ventas del mes actual,True,barras
+Ventas por hora del día y gráfico,True,barras
+Quiero consulta los descuentos aplicados y genera un chart,1,barras
+compras por proveedor y muestra un gráfico de barras,True,barras
+compras por proveedor y muestra un gráfico de barras,1,barras
+ventas por vendedor y haz un gráfico de pastel,True,circular
+Transacciones por estado,1,barras
+lista los precios promedio por marca y muestra un gráfico,True,barras
+Proveedores con RUC que empieza con 20,0,ninguno
+Consulta: transacciones por estado y haz un gráfico de pastel,True,circular
+Ventas por hora del día y muestra gráfico,True,barras
+Podrías movimientos de inventario y muestra histograma,True,histograma
+Consulta: presentar en gráfico los productos más vendidos,True,barras
+Dame mostrame los tipos de comprobante y grafica los resultados,1,barras
+mostrar gráfico la correlación precio-ventas,1,circular
+visualiza en un gráfico los productos por categoría,True,barras
+Podrías grafica los métodos de pago más utilizados,1,barras
+obten los ventas por vendedor y visualizalos en un gráfico,1,circular
+Consulta: dibujar gráfico la distribución de clientes,True,histograma
+Dame muestra en un chart los productos sin stock,1,barras
+Sería posible genera chart la correlación precio-ventas,1,dispersion
+Clientes por grupo de edad y haz un gráfico de pastel,True,circular
+Sería posible hacer gráfica los productos más vendidos,True,barras
+Consulta: grafica la correlación precio-ventas,1,dispersion
+top 10 productos más vendidos y gráfico,1,barras
+Mostrar dibujar gráfico la distribución de clientes,True,histograma
+Podrías lista los primeros 5 clientes ordenados alfabéticamente y muestra un gráfico,True,barras
+Dame grafica los productos por categoría,1,barras
+dibujar gráfico los métodos de pago?,True,barras
+Consulta: dibuja un gráfico con los stock por categoría,True,barras
+MOVIMIENTOS DE INVENTARIO Y GRÁFICO,True,barras
+Mostrar generar chart la correlación precio-ventas,1,dispersion
+Buscar comprobante por número 001-000456,0,ninguno
+Quiero hacer gráfica la frecuencia de compras,True,histograma
+Mostrar resumen financiero,False,ninguno
+Productos con stock menor al mínimo por favor,False,ninguno
+Busca los clientes registrados por mes y crea una gráfica,True,barras
+compras por proveedor y muestra gráfico?,True,barras
+Requiero muestra en un chart los clientes registrados por mes,1,barras
+ventas por vendedor agregando chart?,1,barras
+tipos de comprobante con gráfico circular,1,circular
+Requiero productos con mayor margen con gráfico,True,barras
+Consulta: productos con mayor margen con gráfico de dispersión,True,dispersion
+Podrías muestrame los descuentos aplicados y presenta un gráfico,True,barras
+Dame consulta los movimientos de inventario y genera un chart,1,barras
+Mostrar productos por categoría con gráfico circular,True,circular
+Obtener genera una gráfica de los clientes registrados por mes,True,barras
+Movimientos de inventario con gráfico circular,True,circular
+Obtener crea plot las ventas mensuales,1,lineal
+Dame muestra en un chart los productos con mayor margen,1,barras
+Sería posible productos con mayor margen de ganancia,False,ninguno
+extrae los estados de venta y haz un plot por favor,1,barras
+muestra en un chart los ventas por vendedor,1,lineal
+Mostrar ventas por vendedor,False,ninguno
+Quiero lista los primeros 5 clientes ordenados alfabéticamente y muestra un gráfico,True,barras
+Obtener extrae los productos por categoría y haz un plot,1,barras
+Quiero dame los tipos de comprobante y graficalos,1,barras
+Productos de la categoría ropa,True,barras
+Hacer gráfica la frecuencia de compras,True,histograma
+crea plot los métodos de pago,1,barras
+Quiero mostrar gráfico la evolución de precios,True,lineal
+Podrías hacer gráfica el stock por categoría,True,barras
+Dame productos que necesitan reposición,False,ninguno
+Obtener hacer gráfica las ventas por hora,True,barras
+mostrar gráfico las ventas mensuales,True,lineal
+dibuja un gráfico con los clientes por grupo de edad,1,barras
+estados de venta con gráfico circular,True,circular
+Necesito graficar la evolución de precios,1,lineal
+Requiero descuentos aplicados y gráfico,True,barras
+Sería posible presenta en gráfico los clientes por grupo de edad,True,barras
+ventas por temporada en gráfico lineal,1,lineal
+muestrame los ventas por hora del día y presenta un gráfico,1,circular
+hacer gráfica las ventas por hora,1,circular
+Obtener plotear las ventas por hora,1,barras
+visualiza en un gráfico los top 10 productos más vendidos?,True,barras
+hacer gráfica la evolución de precios,1,circular
+Podrías clientes por grupo de edad visualizado en línea,True,lineal
+Dame presentar en gráfico las ventas por hora,True,barras
+Dame transacciones por estado y haz un gráfico de pastel,True,circular
+consulta los transacciones por estado y genera un chart?,1,barras
+Necesito ventas por temporada incluyendo gráfica,True,barras
+presenta en gráfico los tipos de comprobante,True,barras
+visualizar la correlación precio-ventas?,1,dispersion
+dibuja gráfico las ventas mensuales por favor,True,lineal
+busca los métodos de pago más utilizados y crea una gráfica,1,lineal
+extrae los primeros 5 clientes ordenados alfabéticamente y haz un plot?,1,barras
+plotea los productos más vendidos por favor,1,barras
+Dame presenta en gráfico el stock por categoría,True,barras
+PLOTEA EL STOCK POR CATEGORÍA,1,barras
+Requiero lista los primeros 5 clientes ordenados alfabéticamente y muestra un gráfico,True,barras
+Obtener clientes registrados por mes con gráfico circular,True,circular
+Quiero crea un plot de los productos por categoría,1,barras
+tipos de comprobante con gráfico,True,barras
+presentar en gráfico la distribución de clientes,1,barras
+Obtener haz gráfica la correlación precio-ventas,True,dispersion
+Requiero reporte de inventario,True,barras
+Quiero top 10 productos más vendidos con gráfico de dispersión,True,dispersion
+Obtener dame los stock por categoría y graficalos,1,barras
+visualiza en un gráfico los transacciones por estado,1,circular
+presentar en gráfico la participación de mercado,1,barras
+Quiero progresión de ventas acumuladas,False,ninguno
+Solicito tipos de comprobante con gráfico circular,True,circular
+grafica los productos por categoría,1,barras
+presenta en gráfico las ventas mensuales?,True,lineal
+Quiero stock por categoría y muestra gráfico,True,barras
+Necesito porcentaje de métodos de pago utilizados,True,circular
+lista los productos sin stock y muestra un gráfico,1,barras
+top 10 productos más vendidos y muestra histograma,1,histograma
+Requiero ventas por hora del día,False,ninguno
+Podrías grafica los precios promedio por marca,1,barras
+mostrar gráfico la distribución de clientes?,True,histograma
+Obtener crea un plot de los productos por categoría,1,barras
+PRODUCTOS SIN STOCK Y MUESTRA GRÁFICO,True,barras
+Sería posible consulta los transacciones por estado y genera un chart,1,barras
+Dame plotea las ventas mensuales,1,lineal
+Mostrar productos con precio mayor a 100 soles por favor,False,ninguno
+Consulta: obten los movimientos de inventario y visualizalos en un gráfico,True,barras
+Podrías graficar la participación de mercado,1,circular
+Consulta: muestra gráfico los productos más vendidos,True,barras
+Stock actual de todos los productos,0,ninguno
+crea un plot de los top 10 productos más vendidos por favor,1,barras
+mostrar gráfico las ventas por hora,1,circular
+Crecimiento de clientes registrados,1,lineal
+Consulta: clientes por grupo de edad y haz un gráfico de pastel,True,circular
+plotea los productos más vendidos,1,barras
+transacciones por estado y muestra un gráfico de barras?,True,barras
+Me gustaría visualiza en un gráfico los top 10 productos más vendidos,True,barras
+Podrías crea un plot de los métodos de pago más utilizados,1,barras
+Dame haz gráfica la correlación precio-ventas,True,dispersion
+generar chart la evolución de precios,1,barras
+Mostrar métodos de pago más utilizados y gráfico,True,barras
+ventas por vendedor agregando chart,1,barras
+Necesito distribución de estados de venta,False,ninguno
+Métricas comerciales,1,barras
+Podrías visualiza en un gráfico los top 10 productos más vendidos,True,barras
+LISTA LOS PRIMEROS 5 CLIENTES ORDENADOS ALFABÉTICAMENTE Y MUESTRA UN GRÁFICO,True,barras
+Me gustaría haz gráfica el stock por categoría,True,barras
+VISUALIZA EN UN GRÁFICO LOS PRODUCTOS SIN STOCK,True,barras
+Plotear los métodos de pago,1,barras
+Distribución de días entre compras,True,histograma
+Requiero mostrame los compras por proveedor y grafica los resultados,1,barras
+Sería posible dibuja gráfico la distribución de clientes,True,histograma
+Sería posible lista los tipos de comprobante y muestra un gráfico,True,barras
+presenta en gráfico los productos por categoría,1,circular
+Quiero obten los ventas por hora del día y visualizalos en un gráfico,True,barras
+Me gustaría genera chart la distribución de clientes,1,histograma
+DIBUJA UN GRÁFICO CON LOS CLIENTES REGISTRADOS POR MES,True,barras
+Solicito muestra en un chart los precios promedio por marca,1,barras
+Requiero muestra gráfico la distribución de clientes,True,histograma
+Mostrar detalle de venta número 001-000123,0,ninguno
+Me gustaría mostrame los ventas mensuales del último año y grafica los resultados,1,lineal
+Requiero busca los clientes registrados por mes y crea una gráfica,True,barras
+Quiero lista los productos sin stock y muestra un gráfico,True,barras
+Ventas por hora del día,1,barras
+Requiero muestrame los productos por categoría y presenta un gráfico,True,barras
+Requiero ventas pendientes de pago,False,ninguno
+Necesito mostrame los precios promedio por marca y grafica los resultados,1,barras
+Dame plotear la correlación precio-ventas,1,dispersion
+Mostrar descuentos aplicados en gráfico lineal,True,lineal
+Solicito consulta los productos sin stock y genera un chart,1,barras
+Quiero crea un plot de los clientes por grupo de edad,1,barras
+visualiza en un gráfico los ventas mensuales del último año,1,circular
+ventas por vendedor incluyendo gráfica por favor,True,barras
+grafica los primeros 5 clientes ordenados alfabéticamente,1,barras
+VISUALIZAR LA DISTRIBUCIÓN DE CLIENTES,1,histograma
+Sería posible distribución de estados de venta,False,ninguno
+Sería posible dibuja un gráfico con los productos con mayor margen,True,barras
+Sería posible productos con mayor margen con gráfico de dispersión,True,dispersion
+visualiza en un gráfico los top 10 productos más vendidos,1,circular
+muestra en un chart los ventas por temporada por favor,1,barras
+Me gustaría transacciones por estado y gráfico,True,barras
+OBTEN LOS CLIENTES POR GRUPO DE EDAD Y VISUALIZALOS EN UN GRÁFICO,True,barras
+PRODUCTOS POR CATEGORÍA Y GRAFICALO EN BARRAS,1,barras
+grafica los ventas por temporada,1,barras
+genera chart la frecuencia de compras,1,barras
+stock por categoría en gráfico lineal,1,lineal
+consulta los stock por categoría y genera un chart,1,barras
+dibujar gráfico la participación de mercado?,True,circular
+Podrías visualiza la distribución de clientes,True,histograma
+top 10 productos más vendidos y muestra un gráfico de barras,True,barras
+Consulta: visualiza en un gráfico los productos sin stock,True,barras
+Solicito lista los precios promedio por marca y muestra un gráfico,True,barras
+mostrame los descuentos aplicados y grafica los resultados,1,barras
+Solicito mostrar detalle de venta número 001-000123,False,ninguno
+composición del inventario por categoría,False,ninguno
+productos con mayor margen y muestra histograma?,True,histograma
+Crea un plot de los estados de venta,1,barras
+Obtener extrae los transacciones por estado y haz un plot,1,barras
+Consulta los productos por categoría y genera un chart,1,barras
+Requiero obten los primeros 5 clientes ordenados alfabéticamente y visualizalos en un gráfico,True,barras
+extrae los ventas mensuales del último año y haz un plot,1,lineal
+Obtener graficar la frecuencia de compras,1,histograma
+Me gustaría visualiza las ventas mensuales,True,lineal
+Transacciones por estado y gráfico,True,barras
+Obtener estados de venta con gráfico de dispersión,True,dispersion
+Solicito mostrame los top 10 productos más vendidos y grafica los resultados,1,barras
+EXTRAE LOS COMPRAS POR PROVEEDOR Y HAZ UN PLOT,1,barras
+Solicito ventas por temporada y haz un gráfico de pastel,True,circular
+presentar en gráfico la participación de mercado por favor,True,circular
+hacer gráfica la frecuencia de compras,1,circular
+lista los ventas por hora del día y muestra un gráfico,1,barras
+Me gustaría genera una gráfica de los ventas por temporada,True,barras
+busca los productos con mayor margen y crea una gráfica,1,lineal
+Dibuja un gráfico con los primeros 5 clientes ordenados alfabéticamente,True,barras
+Distribución de clientes por grupo de edad,1,circular
+Mostrar genera chart la evolución de precios,1,lineal
+Quiero movimientos de inventario con gráfico,True,barras
+productos por categoría y graficalo en barras?,1,barras
+Histograma de cantidades vendidas,1,histograma
+consulta los precios promedio por marca y genera un chart,1,barras
+Consulta: movimientos de inventario y graficalo en barras,1,barras
+descuentos aplicados y haz un gráfico de pastel,1,circular
+Sería posible clientes registrados por mes con gráfico circular,True,circular
+grafica los productos más vendidos,1,barras
+presenta en gráfico los ventas por hora del día,1,circular
+obten los stock por categoría y visualizalos en un gráfico,True,barras
+Mostrar muestrame los ventas por vendedor y presenta un gráfico,True,barras
+Consulta: ventas mensuales del último año incluyendo gráfica,True,lineal
+Sería posible top 10 productos más vendidos con gráfico circular,True,circular
+Solicito lista los descuentos aplicados y muestra un gráfico,True,barras
+Requiero haz un gráfico de los ventas por hora del día,True,barras
+Podrías presenta en gráfico los ventas por hora del día,True,barras
+Quiero haz gráfica el stock por categoría,True,barras
+crea un plot de los estados de venta,1,dispersion
+Consulta: precios promedio por marca en gráfico lineal,True,lineal
+Me gustaría muestra gráfico los métodos de pago,True,barras
+Dame presenta en gráfico la evolución de precios,True,lineal
+clientes por grupo de edad y muestra gráfico,1,circular
+busca los compras por proveedor y crea una gráfica,True,barras
+Sería posible dibujar gráfico la correlación precio-ventas,True,dispersion
+dibuja un gráfico con los stock por categoría,True,barras
+Dame extrae los ventas por hora del día y haz un plot,1,barras
+ventas mensuales del último año incluyendo gráfica,1,lineal
+grafica los productos más vendidos,1,barras
+CLIENTES REGISTRADOS POR MES,True,barras
+Me gustaría genera una gráfica de los clientes registrados por mes,True,barras
+Solicito tipos de comprobante incluyendo gráfica,True,barras
+Obtener crecimiento de clientes registrados,True,lineal
+Resumen financiero,False,ninguno
+Mostrar genera una gráfica de los compras por proveedor,True,barras
+lista los productos por categoría y muestra un gráfico,1,barras
+productos sin stock en gráfico lineal?,True,lineal
+Indicadores clave,0,ninguno
+muestra en un chart los precios promedio por marca,1,barras
+Requiero busca los productos con mayor margen y crea una gráfica,True,barras
+Quiero dame los clientes registrados por mes y graficalos,1,barras
+Requiero hacer gráfica la evolución de precios,True,lineal
+Requiero haz gráfica las ventas por hora,True,barras
+Mostrar tipos de comprobante y haz un gráfico de pastel,True,circular
+clientes registrados por mes y graficalo en barras,1,barras
+Sería posible presentar en gráfico la distribución de clientes,True,histograma
+Genera una gráfica de los productos con mayor margen,True,barras
+productos con mayor margen visualizado en línea?,True,lineal
+Dame presenta en gráfico el stock por categoría,True,barras
+Consulta: busca los compras por proveedor y crea una gráfica,True,barras
+Mostrar buscar comprobante por número 001-000456,False,ninguno
+plotea la frecuencia de compras,1,dispersion
+Dame haz gráfica las ventas mensuales,True,lineal
+Podrías métodos de pago más utilizados en gráfico lineal,True,lineal
+Consulta: grafica los compras por proveedor,1,barras
+Mostrar muestra en un chart los movimientos de inventario,1,barras
+Quiero visualiza en un gráfico los precios promedio por marca,True,barras
+Extrae los ventas mensuales del último año y haz un plot,1,lineal
+Dame grafica la participación de mercado,1,circular
+Solicito consulta los top 10 productos más vendidos y genera un chart,1,barras
+Presentar en gráfico la frecuencia de compras,True,histograma
+ventas por temporada y haz un gráfico de pastel por favor,True,circular
+Consulta: tipos de comprobante y muestra gráfico,True,barras
+Me gustaría tipos de comprobante con gráfico,True,barras
+Historial de movimientos de hoy,True,barras
+clientes registrados por mes y gráfico,1,barras
+Mostrar consulta los productos sin stock y genera un chart,1,barras
+Sería posible haz gráfica la distribución de clientes,True,histograma
+Necesito ventas mensuales del último año y muestra un gráfico de barras,True,barras
+Mostrar visualiza el stock por categoría,True,barras
+Obtener clientes por grupo de edad visualizado en línea,True,lineal
+Mostrar ventas mensuales del último año y graficalo en barras,1,barras
+Dame distribución de días entre compras,True,histograma
+haz un gráfico de los métodos de pago más utilizados,1,barras
+dibuja un gráfico con los métodos de pago más utilizados?,True,barras
+compras por proveedor visualizado en línea,1,lineal
+muestra en un chart los clientes registrados por mes,1,lineal
+Mostrar gráfico la participación de mercado,True,circular
+mostrar gráfico las ventas por hora?,True,barras
+Consulta: Estadísticas de productos,True,barras
+Obtener busca los precios promedio por marca y crea una gráfica,True,barras
+muestrame los precios promedio por marca y presenta un gráfico,True,barras
+Me gustaría busca los estados de venta y crea una gráfica,True,barras
+Quiero dibujar gráfico la frecuencia de compras,True,histograma
+HISTOGRAMA DE CANTIDADES VENDIDAS,True,histograma
+haz gráfica el stock por categoría,1,circular
+Consulta los stock por categoría y genera un chart,1,barras
+busca los movimientos de inventario y crea una gráfica por favor,True,barras
+Quiero obten los primeros 5 clientes ordenados alfabéticamente y visualizalos en un gráfico,True,barras
+Solicito hacer gráfica los métodos de pago,True,barras
+presenta en gráfico los precios promedio por marca,True,barras
+plotear la distribución de clientes,1,dispersion
+top 10 productos más vendidos y muestra un gráfico de barras?,True,barras
+CREA PLOT LA PARTICIPACIÓN DE MERCADO,1,circular
+visualiza la evolución de precios,True,lineal
+Solicito compras por proveedor y muestra un gráfico de barras,True,barras
+Dame los productos sin stock y graficalos,1,barras
+Dame haz un gráfico de los productos por categoría,True,barras
+crea un plot de los ventas por hora del día?,1,barras
+métodos de pago más utilizados en gráfico lineal,1,lineal
+Requiero proporción de tipos de comprobante,True,circular
+mostrar gráfico las ventas mensuales,True,lineal
+Distribución de edades de clientes,True,histograma
+grafica la participación de mercado?,1,circular
+Consulta: dibuja un gráfico con los compras por proveedor,True,barras
+grafica los ventas por vendedor?,1,barras
+Solicito ventas por vendedor y haz un gráfico de pastel,True,circular
+Consulta: graficar la participación de mercado,1,circular
+Ventas pendientes de pago,0,ninguno
+tipos de comprobante incluyendo gráfica,True,barras
+Mostrar muestrame los estados de venta y presenta un gráfico,True,barras
+dibuja un gráfico con los primeros 5 clientes ordenados alfabéticamente,1,barras
+Presenta en gráfico la evolución de precios,True,lineal
+visualiza los métodos de pago?,True,barras
+clientes por grupo de edad en gráfico lineal?,True,lineal
+Quiero productos sin stock con gráfico circular,True,circular
+muestra en un chart los ventas mensuales del último año por favor,1,lineal
+genera una gráfica de los precios promedio por marca?,True,barras
+ventas por vendedor incluyendo gráfica,1,lineal
+Solicito busca los movimientos de inventario y crea una gráfica,True,barras
+extrae los estados de venta y haz un plot?,1,barras
+relación entre precio y cantidad vendida,True,dispersion
+stock por categoría en gráfico lineal,True,lineal
+ventas por vendedor y muestra gráfico,1,circular
+graficar el stock por categoría,1,barras
+Requiero ventas por vendedor y muestra un gráfico de barras,True,barras
+haz gráfica las ventas mensuales,1,circular
+crea un plot de los clientes registrados por mes,1,dispersion
+productos por categoría agregando chart,1,barras
+ventas por vendedor y muestra histograma por favor,True,histograma
+Muestrame los descuentos aplicados y presenta un gráfico,True,barras
+mostrar gráfico los productos más vendidos por favor,True,barras
+Sería posible muestrame los ventas por vendedor y presenta un gráfico,True,barras
+Me gustaría busca los clientes registrados por mes y crea una gráfica,True,barras
+Consulta los tipos de comprobante y genera un chart,1,barras
+Obtener ventas por vendedor y muestra un gráfico de barras,True,barras
+CONSULTA LOS TIPOS DE COMPROBANTE Y GENERA UN CHART,1,barras
+reporte ejecutivo,True,barras
+haz un gráfico de los transacciones por estado por favor,True,barras
+Solicito grafica las ventas mensuales,1,lineal
+MOSTRAR PRODUCTOS CON PRECIO MAYOR A 100 SOLES,False,ninguno
+Solicito extrae los tipos de comprobante y haz un plot,1,barras
+Requiero grafica los tipos de comprobante,1,barras
+mostrame los primeros 5 clientes ordenados alfabéticamente y grafica los resultados,1,barras
+Dame compras realizadas al proveedor id 5,True,barras
+Me gustaría dibuja un gráfico con los métodos de pago más utilizados,True,barras
+Porcentaje de productos con descuento?,True,circular
+Sería posible productos sin stock incluyendo gráfica,True,barras
+Requiero tipos de comprobante y gráfico,True,barras
+Presentar en gráfico la distribución de clientes,True,histograma
+Me gustaría estados de venta y muestra gráfico,True,barras
+obten los ventas por vendedor y visualizalos en un gráfico,True,barras
+Obtener stock por categoría y muestra gráfico,True,barras
+Podrías composición del inventario por categoría,False,ninguno
+MOSTRAR GRÁFICO LA EVOLUCIÓN DE PRECIOS,True,lineal
+Mostrar muestra en un chart los productos sin stock,1,barras
+Consulta: crea un plot de los ventas por temporada,1,barras
+Mostrar dibuja un gráfico con los clientes registrados por mes,True,barras
+visualizar la participación de mercado,1,lineal
+Necesito haz un gráfico de los ventas mensuales del último año,True,lineal
+Mostrar visualiza la evolución de precios,True,lineal
+CREAR PLOT LOS PRODUCTOS MÁS VENDIDOS,1,barras
+Requiero presenta en gráfico los clientes por grupo de edad,True,barras
+Quiero tipos de comprobante con gráfico,True,barras
+Requiero muestra en un chart los productos por categoría,1,barras
+Necesito presentar en gráfico la correlación precio-ventas,True,dispersion
+Mostrar métodos de pago más utilizados y muestra gráfico,True,barras
+Graficar la distribución de clientes,1,histograma
+Obtener grafica las ventas mensuales,1,lineal
+Quiero obten los tipos de comprobante y visualizalos en un gráfico,True,barras
+crea plot la correlación precio-ventas?,1,dispersion
+Necesito crear plot la evolución de precios,1,lineal
+Dame presenta en gráfico los productos más vendidos,True,barras
+Mostrar mostrame los primeros 5 clientes ordenados alfabéticamente y grafica los resultados,1,barras
+PRODUCTOS SIN STOCK Y HAZ UN GRÁFICO DE PASTEL,True,circular
+Obtener ventas mensuales del último año y graficalo en barras,1,barras
+Podrías top 10 productos más vendidos con gráfico circular,True,circular
+Mostrar frecuencia de montos de venta,False,ninguno
+Solicito lista de todos los proveedores,False,ninguno
+Dame transacciones por estado y haz un gráfico de pastel,True,circular
+TOTAL VENDIDO ESTE MES,False,ninguno
+Sería posible presenta en gráfico los precios promedio por marca,True,barras
+Podrías dame los ventas por hora del día y graficalos,1,barras
+Sería posible muestrame los ventas por hora del día y presenta un gráfico,True,barras
+Mostrar ventas por método de pago,False,ninguno
+Estadísticas de productos,1,barras
+lista los productos por categoría y muestra un gráfico,True,barras
+Solicito clientes por grupo de edad y muestra gráfico,True,barras
+Haz un gráfico de los productos por categoría,True,barras
+clientes por grupo de edad en gráfico lineal?,True,lineal
+haz un gráfico de los productos por categoría,1,barras
+Podrías plotea la evolución de precios,1,lineal
+Me gustaría mostrame los tipos de comprobante y grafica los resultados,1,barras
+Quiero grafica la frecuencia de compras,1,histograma
+Necesito crear plot la evolución de precios,1,lineal
+Top 10 productos más vendidos y muestra un gráfico de barras,True,barras
+Dame productos sin stock actual,False,ninguno
+métodos de pago más utilizados agregando chart,1,barras
+hacer gráfica la distribución de clientes,1,circular
+visualizar la evolución de precios?,1,lineal
+hacer gráfica la participación de mercado,1,circular
+Quiero movimientos de inventario incluyendo gráfica,True,barras
+Buscar cliente por nombre juan pérez,False,ninguno
+Dame crear plot la participación de mercado,1,circular
+Obtener haz gráfica la evolución de precios,True,lineal
+Podrías plotea la distribución de clientes,1,histograma
+Stock por categoría con gráfico circular,True,circular
+productos sin stock actual,False,ninguno
+Solicito productos por categoría visualizado en línea,True,lineal
+Sería posible grafica los productos por categoría,1,barras
+Transacciones pendientes de confirmación,0,ninguno
+Podrías clientes registrados por mes y graficalo en barras,1,barras
+Consulta: ventas por temporada agregando chart,1,barras
+descuentos aplicados agregando chart,1,barras
+Comportamiento de ventas por temporada,True,barras
+Podrías presenta en gráfico la evolución de precios,True,lineal
+Me gustaría dame los stock por categoría y graficalos,1,barras
+Consulta: genera una gráfica de los productos por categoría,True,barras
+crear plot la correlación precio-ventas,1,lineal
+Necesito crea un plot de los top 10 productos más vendidos,1,barras
+presentar en gráfico la correlación precio-ventas,1,barras
+busca los métodos de pago más utilizados y crea una gráfica,True,barras
+hacer gráfica los productos más vendidos,1,circular
+presentar en gráfico los métodos de pago,True,barras
+Podrías extrae los estados de venta y haz un plot,1,barras
+crea plot la participación de mercado por favor,1,circular
+Mostrar genera chart las ventas por hora,1,barras
+Sería posible consulta los top 10 productos más vendidos y genera un chart,1,barras
+Stock por categoría visualizado en línea,True,lineal
+dame los productos con mayor margen y graficalos,1,barras
+Mostrar haz gráfica las ventas mensuales,True,lineal
+Muestrame los estados de venta y presenta un gráfico,True,barras
+Ventas canceladas en la última semana,0,ninguno
+crear plot la frecuencia de compras,1,lineal
+Solicito lista los ventas por hora del día y muestra un gráfico,True,barras
+precios promedio por marca agregando chart?,1,barras
+Requiero consulta los movimientos de inventario y genera un chart,1,barras
+Quiero productos por categoría con gráfico circular,True,circular
+Solicito porcentaje de métodos de pago utilizados,False,ninguno
+Consulta: visualiza los métodos de pago,True,barras
+mostrar gráfico la participación de mercado,1,circular
+Mostrar crea un plot de los estados de venta,1,barras
+Requiero plotea la distribución de clientes,1,histograma
+stock por categoría y gráfico?,True,barras
+plotear las ventas por hora,1,dispersion
+Requiero clientes por grupo de edad en gráfico lineal,True,lineal
+Consulta: muestra en un chart los productos con mayor margen,1,barras
+Dame dibuja gráfico los productos más vendidos,True,barras
+Solicito visualizar la frecuencia de compras,1,histograma
+ventas por temporada agregando chart,1,barras
+transacciones por estado y gráfico,1,barras
+Podrías muestra los datos del cliente con dni 12345678,False,ninguno
+Mostrar dibuja un gráfico con los productos con mayor margen,True,barras
+Consulta: hacer gráfica la distribución de clientes,True,histograma
+Sería posible obten los tipos de comprobante y visualizalos en un gráfico,True,barras
+Podrías plotea la participación de mercado,1,circular
+Podrías eliminar cliente con dni 87654321,False,ninguno
+Me gustaría graficar el stock por categoría,1,barras
+Mostrar busca los top 10 productos más vendidos y crea una gráfica,True,barras
+busca los estados de venta y crea una gráfica,1,lineal
+compras por proveedor y graficalo en barras?,1,barras
+Dame crear plot las ventas mensuales,1,lineal
+Requiero estados de venta y muestra histograma,True,histograma
+Podrías eliminar cliente con dni 87654321,False,ninguno
+movimientos de inventario visualizado en línea,True,lineal
+Obtener crear plot la frecuencia de compras,1,histograma
+transacciones por estado y haz un gráfico de pastel,1,circular
+Consulta: hacer gráfica la frecuencia de compras,True,histograma
+dibuja un gráfico con los transacciones por estado?,True,barras
+Dame consulta los stock por categoría y genera un chart,1,barras
+top 10 productos más vendidos y muestra un gráfico de barras por favor,True,barras
+Podrías ventas por hora del día incluyendo gráfica,True,barras
+Requiero análisis de mercado,False,ninguno
+Quiero haz gráfica la evolución de precios,True,lineal
+HAZ UN GRÁFICO DE LOS PRODUCTOS CON MAYOR MARGEN,True,barras
+Solicito presenta en gráfico las ventas mensuales,True,lineal
+presenta en gráfico los tipos de comprobante,True,barras
+Requiero productos por categoría con gráfico circular,True,circular
+MOSTRAME LOS COMPRAS POR PROVEEDOR Y GRAFICA LOS RESULTADOS,1,barras
+ventas por hora del día incluyendo gráfica,1,lineal
+Quiero dibuja un gráfico con los métodos de pago más utilizados,True,barras
+Mostrar presenta en gráfico los productos más vendidos,True,barras
+Me gustaría crea plot las ventas por hora,1,barras
+Podrías porcentaje de productos con descuento,True,circular
+Buscar cliente por nombre Juan Pérez,0,ninguno
+Dame productos sin stock y muestra gráfico,True,barras
+Dame grafica los stock por categoría,1,barras
+obten los tipos de comprobante y visualizalos en un gráfico,1,circular
+plotear la frecuencia de compras,1,dispersion
+muestrame los compras por proveedor y presenta un gráfico?,True,barras
+Necesito muestra en un chart los ventas por vendedor,1,barras
+Consulta: haz gráfica los productos más vendidos,True,barras
+MUESTRA EN UN CHART LOS TRANSACCIONES POR ESTADO,1,barras
+Descuentos aplicados y muestra un gráfico de barras,True,barras
+haz gráfica la participación de mercado,True,circular
+Mostrar ventas por temporada con gráfico,True,barras
+Me gustaría transacciones por estado y muestra un gráfico de barras,True,barras
+Requiero obten los clientes por grupo de edad y visualizalos en un gráfico,True,barras
+genera una gráfica de los ventas por temporada,1,histograma
+Dame clientes que tienen email gmail.com,False,ninguno
+CREAR PLOT LOS MÉTODOS DE PAGO,1,barras
+mostrar gráfico las ventas mensuales,1,circular
+Consulta: genera una gráfica de los ventas por temporada,True,barras
+plotea la evolución de precios,1,dispersion
+Quiero stock por categoría de productos,True,barras
+Sería posible correlación entre descuento y volumen de ventas,True,dispersion
+Reporte de inventario?,True,barras
+OBTEN LOS ESTADOS DE VENTA Y VISUALIZALOS EN UN GRÁFICO,True,barras
+VENTAS POR VENDEDOR INCLUYENDO GRÁFICA,True,barras
+grafica la evolución de precios,1,lineal

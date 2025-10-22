@@ -15,8 +15,6 @@ Un sistema completo de consultas en lenguaje natural a SQL que combina **RAG (Re
 - [Configuración](#-configuración)
 - [Uso](#-uso)
 - [API Reference](#-api-reference)
-- [Contribución](#-contribución)
-- [Licencia](#-licencia)
 
 ---
 
@@ -441,3 +439,4 @@ api_model_fast/app/models/modelo_distilbert_mejorado/
 ---
 
 **Desarrollado usando FastAPI, React, NestJS y TypeScript**
+

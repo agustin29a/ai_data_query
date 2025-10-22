@@ -226,13 +226,13 @@ COMMENT ON TABLE producto_descuento IS 'Tabla intermedia que relaciona productos
 
 COMMENT ON TABLE proveedores IS 'Registro de proveedores con información de contacto. Usada en compras y gestión de inventario.';
 
-COMMENT ON TABLE compras IS 'Registro de compras a proveedores con estados y totales. Usada para control de inventario y cuentas por pagar.';
+COMMENT ON TABLE compras IS 'Registra las compras realizadas por la empresa a los proveedores. Cada registro representa una venta efectuada por un proveedor hacia la empresa, incluyendo su documento comercial, fecha, total y estado. Usada para el control de inventario, análisis de compras y seguimiento de las ventas realizadas por los proveedores.';
 
-COMMENT ON TABLE detalle_compra IS 'Detalle de productos comprados en cada compra. Usada para actualizar stock y costos de productos.';
+COMMENT ON TABLE detalle_compra IS 'Contiene el detalle de los productos vendidos por los proveedores a la empresa en cada operación de compra. Cada registro representa un producto que el proveedor entregó, con su cantidad, precio y subtotal. Usada para análisis de ventas por proveedor, actualización de stock e historial de compras.';
 
-COMMENT ON TABLE comprobantes_venta IS 'Comprobantes de venta (boletas/facturas) con cálculos de impuestos. Usada para reportes fiscales y ventas.';
+COMMENT ON TABLE comprobantes_venta IS 'Registra los comprobantes de venta emitidos por la empresa cuando un cliente realiza una compra. Cada comprobante representa una compra efectuada por un cliente, incluyendo boletas y facturas. Usada para reportes fiscales, control de ventas y análisis de compras realizadas por los clientes.';
 
-COMMENT ON TABLE detalle_venta IS 'Detalle de productos vendidos en cada comprobante. Usada para análisis de ventas y descuentos aplicados.';
+COMMENT ON TABLE detalle_venta IS 'Contiene el detalle de los productos comprados por los clientes en cada comprobante de venta. Cada registro representa un producto adquirido, su cantidad, precio y descuentos aplicados. Usada para análisis de productos más comprados, comportamiento de compra y control de stock.';
 
 COMMENT ON TABLE transacciones IS 'Registro de transacciones de pago con métodos y estados. Usada para conciliación y seguimiento de pagos.';
 
@@ -316,38 +316,52 @@ COMMENT ON COLUMN proveedores.telefono IS 'Teléfono para contactos urgentes';
 COMMENT ON COLUMN proveedores.email IS 'Email para comunicación formal';
 
 -- Comentarios en columnas de COMPRAS
-COMMENT ON COLUMN compras.proveedor_id IS 'Proveedor de la compra para reportes por proveedor';
-COMMENT ON COLUMN compras.fecha_compra IS 'Fecha de la compra para reportes temporales';
-COMMENT ON COLUMN compras.numero_documento IS 'Número de factura/recibo del proveedor';
-COMMENT ON COLUMN compras.total IS 'Total de la compra para control de gastos';
-COMMENT ON COLUMN compras.estado IS 'Estado: PENDIENTE, PAGADA, CANCELADA para flujo';
+COMMENT ON COLUMN compras.proveedor_id IS 'Proveedor que realizó la venta de productos o servicios a la empresa.';
+COMMENT ON COLUMN compras.fecha_compra IS 'Fecha en la que el proveedor vendió los productos o se registró la compra por parte de la empresa.';
+COMMENT ON COLUMN compras.numero_documento IS 'Número del comprobante emitido por el proveedor (factura o recibo) en su venta a la empresa.';
+COMMENT ON COLUMN compras.total IS 'Importe total vendido por el proveedor a la empresa en esta transacción.';
+COMMENT ON COLUMN compras.estado IS 'Estado de la venta del proveedor o de la compra registrada: PENDIENTE, PAGADA o CANCELADA.';
 
 -- Comentarios en columnas de DETALLE_COMPRA
-COMMENT ON COLUMN detalle_compra.compra_id IS 'Compra a la que pertenece el detalle';
-COMMENT ON COLUMN detalle_compra.producto_id IS 'Producto comprado para actualizar stock';
-COMMENT ON COLUMN detalle_compra.cantidad IS 'Cantidad comprada para entrada a inventario';
-COMMENT ON COLUMN detalle_compra.precio_unitario IS 'Precio unitario de compra para costos';
-COMMENT ON COLUMN detalle_compra.subtotal IS 'Subtotal (cantidad * precio_unitario)';
+COMMENT ON COLUMN detalle_compra.compra_id IS 'Compra asociada a la venta del proveedor. Relaciona los productos vendidos con su comprobante de compra.';
+COMMENT ON COLUMN detalle_compra.producto_id IS 'Producto que el proveedor vendió a la empresa en esta operación.';
+COMMENT ON COLUMN detalle_compra.cantidad IS 'Cantidad de unidades que el proveedor vendió a la empresa.';
+COMMENT ON COLUMN detalle_compra.precio_unitario IS 'Precio unitario al que el proveedor vendió el producto a la empresa.';
+COMMENT ON COLUMN detalle_compra.subtotal IS 'Subtotal correspondiente a los productos vendidos por el proveedor (cantidad × precio_unitario).';
 
 -- Comentarios en columnas de COMPROBANTES_VENTA
-COMMENT ON COLUMN comprobantes_venta.cliente_id IS 'Cliente asociado al comprobante';
-COMMENT ON COLUMN comprobantes_venta.numero_serie IS 'Serie del comprobante para numeración';
-COMMENT ON COLUMN comprobantes_venta.numero_comprobante IS 'Número único del comprobante';
-COMMENT ON COLUMN comprobantes_venta.fecha_emision IS 'Fecha de emisión para reportes fiscales';
-COMMENT ON COLUMN comprobantes_venta.subtotal IS 'Subtotal antes de impuestos';
-COMMENT ON COLUMN comprobantes_venta.igv IS 'Impuesto general a las ventas calculado';
-COMMENT ON COLUMN comprobantes_venta.total IS 'Total a pagar (subtotal + igv)';
-COMMENT ON COLUMN comprobantes_venta.tipo_comprobante IS 'Tipo: BOLETA o FACTURA para SUNAT';
-COMMENT ON COLUMN comprobantes_venta.estado IS 'Estado: PENDIENTE, PAGADA, CANCELADA';
+COMMENT ON COLUMN comprobantes_venta.cliente_id IS 'Cliente que realizó la compra. Referencia a la tabla de clientes.';
+COMMENT ON COLUMN comprobantes_venta.numero_serie IS 'Serie del comprobante para la numeración de las compras realizadas por los clientes.';
+COMMENT ON COLUMN comprobantes_venta.numero_comprobante IS 'Número único del comprobante de compra o venta emitido al cliente.';
+COMMENT ON COLUMN comprobantes_venta.fecha_emision IS 'Fecha en la que el cliente realizó la compra o se emitió el comprobante de venta.';
+COMMENT ON COLUMN comprobantes_venta.subtotal IS 'Importe subtotal de la compra realizada por el cliente antes de impuestos.';
+COMMENT ON COLUMN comprobantes_venta.igv IS 'Impuesto general a las ventas (IGV) aplicado sobre la compra del cliente.';
+COMMENT ON COLUMN comprobantes_venta.total IS 'Total a pagar por el cliente (subtotal + IGV) correspondiente a su compra.';
+COMMENT ON COLUMN comprobantes_venta.tipo_comprobante IS 'Tipo de comprobante de compra o venta emitido: BOLETA o FACTURA.';
+COMMENT ON COLUMN comprobantes_venta.estado IS 'Estado del comprobante de compra: PENDIENTE, PAGADA o CANCELADA.';
 
 -- Comentarios en columnas de DETALLE_VENTA
-COMMENT ON COLUMN detalle_venta.comprobante_id IS 'Comprobante al que pertenece el detalle';
-COMMENT ON COLUMN detalle_venta.producto_id IS 'Producto vendido para análisis de ventas';
-COMMENT ON COLUMN detalle_venta.cantidad IS 'Cantidad vendida para salida de inventario';
-COMMENT ON COLUMN detalle_venta.precio_unitario IS 'Precio unitario al momento de la venta';
-COMMENT ON COLUMN detalle_venta.descuento IS 'Monto de descuento aplicado en la venta';
-COMMENT ON COLUMN detalle_venta.subtotal IS 'Subtotal (cantidad * precio - descuento)';
-COMMENT ON COLUMN detalle_venta.descuento_id IS 'Descuento aplicado para auditoría';
+
+COMMENT ON COLUMN detalle_venta.comprobante_id IS
+'Comprobante de venta asociado a la compra realizada por el cliente.';
+
+COMMENT ON COLUMN detalle_venta.producto_id IS
+'Producto que el cliente compró o adquirió en la venta.';
+
+COMMENT ON COLUMN detalle_venta.cantidad IS
+'Cantidad de unidades compradas del producto por el cliente.';
+
+COMMENT ON COLUMN detalle_venta.precio_unitario IS
+'Precio unitario del producto comprado por el cliente al momento de la venta.';
+
+COMMENT ON COLUMN detalle_venta.descuento IS
+'Monto de descuento aplicado a la compra del cliente para este producto.';
+
+COMMENT ON COLUMN detalle_venta.subtotal IS
+'Subtotal correspondiente al producto comprado (cantidad × precio - descuento).';
+
+COMMENT ON COLUMN detalle_venta.descuento_id IS
+'Referencia al descuento aplicado en la compra del cliente, para auditoría.';
 
 -- Comentarios en columnas de TRANSACCIONES
 COMMENT ON COLUMN transacciones.comprobante_id IS 'Comprobante asociado a la transacción';
